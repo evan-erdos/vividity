@@ -1,0 +1,1673 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x335910" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x141314e0" />
+  <item nodeId="node-0x335910">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+</result>
+    <commentary xml:space="preserve">
+
+
+Vividity
+An exercise in adventure puzzles and overwriting, by Ben Scott
+Release 1 / Serial number 150323 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
+
+You can see a leaflet here.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="49">NO</temporary>
+    <children>
+      <child nodeId="node-0x338850" />
+      <child nodeId="node-0x338770" />
+      <child nodeId="node-0x337dd0" />
+      <child nodeId="node-0x3377a0" />
+      <child nodeId="node-0x3359b0" />
+      <child nodeId="node-0x38af90" />
+    </children>
+  </item>
+  <item nodeId="node-0x38af90">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly, yet, all things considered, his fate was probably well-enough sealed already. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, traced down through the cracks by the man crumpled into a outcropped ravine. Some of the onlookers squirmed at the sight, while others were quite a bit more moved by it. After too long, and after the catwalk was scrubbed down by the real heroes in this situation, the crowd began to thin. There was obviously nothing to be done for him, so many began to leave the platform in disgust or boredom.
+
+One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood on the rocks, and the sunset of rainbows falling on the canyon. From that evening on, she had them glowing within her, she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades of which she would keep for the rest of her days. Gentiana, getting impatient, prodded at her friend. &quot;Adaline, let&apos;s go.&quot; Gentiana had given her more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
+
+
+Please press SPACE to continue.
+</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="44">YES</temporary>
+    <children>
+      <child nodeId="node-0x51f0f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51f0f0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">
+
+What will your name be?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="44">YES</temporary>
+    <children>
+      <child nodeId="node-0x596b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x596b80">
+    <command xml:space="preserve">Adaline Braun</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="44">YES</temporary>
+    <children>
+      <child nodeId="node-0x1754f0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1754f0d0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+  </item>
+  <item nodeId="node-0x3359b0">
+    <command xml:space="preserve">a</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335a20" />
+    </children>
+  </item>
+  <item nodeId="node-0x335a20">
+    <command xml:space="preserve">d</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x335a90">
+    <command xml:space="preserve">a</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335b40" />
+    </children>
+  </item>
+  <item nodeId="node-0x335b40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">
+Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly, yet, all things considered, his fate was probably well-enough sealed already. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, traced down through the cracks by the man crumpled into a outcropped ravine. Some of the onlookers squirmed at the sight, while others were quite a bit more moved by it. After too long, and after the catwalk was scrubbed down by the real heroes in this situation, the crowd began to thin. There was obviously nothing to be done for him, so many began to leave the platform in disgust or boredom.
+
+One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood on the rocks, and the sunset of rainbows falling on the canyon. From that evening on, she had them glowing within her, she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades of which she would keep for the rest of her days. Gentiana, getting impatient, prodded at her friend. &quot;Adaline, let&apos;s go.&quot; Gentiana had given her more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
+
+
+Please press SPACE to continue.
+</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x335b90">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">
+
+What will your name be?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x335c00">
+    <command xml:space="preserve">ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335cf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x335cf0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335d40" />
+    </children>
+  </item>
+  <item nodeId="node-0x335d40">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+In a sandy depression at the edge of the cliff there is a flower, wedged between grass and rock.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335d90" />
+    </children>
+  </item>
+  <item nodeId="node-0x335d90">
+    <command xml:space="preserve">get flower</command>
+    <result xml:space="preserve">Taken.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335e00" />
+    </children>
+  </item>
+  <item nodeId="node-0x335e00">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a small quantity of flower
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x335e70">
+    <command xml:space="preserve">eat it</command>
+    <result xml:space="preserve">You eat some of the flower. It&apos;s sweetly salty, and tingles your tongue. Before you&apos;re able to fully swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x3371c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3371c0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x335c90">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x337230" />
+    </children>
+  </item>
+  <item nodeId="node-0x337230">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+You&apos;re elated now, and you&apos;re getting uncomfortably tachycardic.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x3372a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3372a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x337310" />
+    </children>
+  </item>
+  <item nodeId="node-0x337310">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x337380" />
+    </children>
+  </item>
+  <item nodeId="node-0x337380">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+You fall over twitching. Your heart feels like it&apos;s deflating, beating sideways, skipping more and more beats. You tingle and twitch as your entire body is deprived of oxygen. You struggle back to your feet.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x3373f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3373f0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x337460" />
+    </children>
+  </item>
+  <item nodeId="node-0x337460">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+
+
+    *** Your heart rolls to a stop, and you slip into blackness with your whole body humming. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x335ee0" />
+    </children>
+  </item>
+  <item nodeId="node-0x335ee0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+[Previous turn undone.]
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x337160" />
+    </children>
+  </item>
+  <item nodeId="node-0x337160">
+    <command xml:space="preserve">l flower</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x337650" />
+    </children>
+  </item>
+  <item nodeId="node-0x337650">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+
+
+    *** Your heart rolls to a stop, and you slip into blackness with your whole body humming. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x3376c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3376c0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+[Previous turn undone.]
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="91">YES</temporary>
+    <children>
+      <child nodeId="node-0x337730" />
+    </children>
+  </item>
+  <item nodeId="node-0x337730">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+
+
+    *** Your heart rolls to a stop, and you slip into blackness with your whole body humming. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="90">YES</temporary>
+  </item>
+  <item nodeId="node-0x3377a0">
+    <command xml:space="preserve">Adaline Braun</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+What will your name be?    &gt;  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="345">YES</temporary>
+    <children>
+      <child nodeId="node-0x337ab0" />
+      <child nodeId="node-0x337a40" />
+      <child nodeId="node-0x3378f0" />
+      <child nodeId="node-0x337810" />
+    </children>
+  </item>
+  <item nodeId="node-0x337810">
+    <command xml:space="preserve">Cane</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+What will your name be?    &gt;  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="345">YES</temporary>
+    <children>
+      <child nodeId="node-0x337880" />
+    </children>
+  </item>
+  <item nodeId="node-0x337880">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Seaside Cliff
+A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+What will your name be?    &gt;  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="344">YES</temporary>
+  </item>
+  <item nodeId="node-0x3378f0">
+    <command xml:space="preserve">Female</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="342">YES</temporary>
+    <children>
+      <child nodeId="node-0x337960" />
+    </children>
+  </item>
+  <item nodeId="node-0x337960">
+    <command xml:space="preserve">Adaline Braun</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="342">YES</temporary>
+    <children>
+      <child nodeId="node-0x3379d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3379d0">
+    <command xml:space="preserve">adlkf</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="341">YES</temporary>
+  </item>
+  <item nodeId="node-0x337a40">
+    <command xml:space="preserve">female</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="337">YES</temporary>
+  </item>
+  <item nodeId="node-0x337ab0">
+    <command xml:space="preserve">male</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="335">YES</temporary>
+    <children>
+      <child nodeId="node-0x3374d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3374d0">
+    <command xml:space="preserve">male</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+Are you male or female?    &gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="318">YES</temporary>
+    <children>
+      <child nodeId="node-0x337540" />
+    </children>
+  </item>
+  <item nodeId="node-0x337540">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+Are you male or female?    &gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="318">YES</temporary>
+    <children>
+      <child nodeId="node-0x3375b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3375b0">
+    <command xml:space="preserve">adsf</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+Are you male or female?    &gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="318">YES</temporary>
+    <children>
+      <child nodeId="node-0x337d60" />
+    </children>
+  </item>
+  <item nodeId="node-0x337d60">
+    <command xml:space="preserve">female</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+Are you male or female?    &gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="317">YES</temporary>
+  </item>
+  <item nodeId="node-0x337dd0">
+    <command xml:space="preserve">þ</command>
+    <result xml:space="preserve">Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly, yet, all things considered, his fate was probably well-enough sealed already. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, traced down through the cracks by the man crumpled into a outcropped ravine. Some of the onlookers squirmed at the sight, while others were quite a bit more moved by it. After too long, and after the catwalk was scrubbed down by the real heroes in this situation, the crowd began to thin. There was obviously nothing to be done for him, so many began to leave the platform in disgust or boredom.
+
+One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood on the rocks, and the sunset of rainbows falling on the canyon. From that evening on, she had them glowing within her, she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades of which she would keep for the rest of her days. Gentiana, getting impatient, prodded at her friend. &quot;Adaline, let&apos;s go.&quot; Gentiana had given her more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
+
+
+Please press SPACE to continue.
+</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="40">YES</temporary>
+    <children>
+      <child nodeId="node-0x337e40" />
+      <child nodeId="node-0x3a17a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3a17a0">
+    <command xml:space="preserve">þ</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="40">YES</temporary>
+  </item>
+  <item nodeId="node-0x337e40">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">
+Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly, yet, all things considered, his fate was probably well-enough sealed already. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, traced down through the cracks by the man crumpled into a outcropped ravine. Some of the onlookers squirmed at the sight, while others were quite a bit more moved by it. After too long, and after the catwalk was scrubbed down by the real heroes in this situation, the crowd began to thin. There was obviously nothing to be done for him, so many began to leave the platform in disgust or boredom.
+
+One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood on the rocks, and the sunset of rainbows falling on the canyon. From that evening on, she had them glowing within her, she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades of which she would keep for the rest of her days. Gentiana, getting impatient, prodded at her friend. &quot;Adaline, let&apos;s go.&quot; Gentiana had given her more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
+
+
+Please press SPACE to continue.
+</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x337eb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x337eb0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">
+
+What will your name be?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x337f20" />
+    </children>
+  </item>
+  <item nodeId="node-0x337f20">
+    <command xml:space="preserve">Ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x337f90" />
+    </children>
+  </item>
+  <item nodeId="node-0x337f90">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x338000" />
+    </children>
+  </item>
+  <item nodeId="node-0x338000">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x338070" />
+    </children>
+  </item>
+  <item nodeId="node-0x338070">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x3380e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3380e0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+In a sandy depression at the edge of the cliff there is a cluster of flowers, wedged between grass and rock.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x338150" />
+    </children>
+  </item>
+  <item nodeId="node-0x338150">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x3381c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3381c0">
+    <command xml:space="preserve">get backpack</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="79">YES</temporary>
+  </item>
+  <item nodeId="node-0x338770">
+    <command xml:space="preserve">asdf</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+Are you male or female?    &gt;  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="330">YES</temporary>
+    <children>
+      <child nodeId="node-0x3387e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3387e0">
+    <command xml:space="preserve">male</command>
+    <result xml:space="preserve">&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="329">YES</temporary>
+  </item>
+  <item nodeId="node-0x338850">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly, yet, all things considered, his fate was probably well-enough sealed already. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, traced down through the cracks by the man crumpled into a outcropped ravine. Some of the onlookers squirmed at the sight, while others were quite a bit more moved by it. After too long, and after the catwalk was scrubbed down by the real heroes in this situation, the crowd began to thin. There was obviously nothing to be done for him, so many began to leave the platform in disgust or boredom.
+
+One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood on the rocks, and the sunset of rainbows falling on the canyon. From that evening on, she had them glowing within her, she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades of which she would keep for the rest of her days. Gentiana, getting impatient, prodded at her friend. &quot;Adaline, let&apos;s go.&quot; Gentiana had given her more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
+</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x338ee0" />
+      <child nodeId="node-0x3388c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3388c0">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">
+
+What will your name be?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338930" />
+    </children>
+  </item>
+  <item nodeId="node-0x338930">
+    <command xml:space="preserve">Ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x3389a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3389a0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338a10" />
+    </children>
+  </item>
+  <item nodeId="node-0x338a10">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+In a sandy depression at the edge of the cliff there is a flower, wedged between grass and rock.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x338a80">
+    <command xml:space="preserve">get flower</command>
+    <result xml:space="preserve">Taken.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338af0" />
+    </children>
+  </item>
+  <item nodeId="node-0x338af0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a small quantity of flower
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338b60" />
+    </children>
+  </item>
+  <item nodeId="node-0x338b60">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338bd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x338bd0">
+    <command xml:space="preserve">eat flower</command>
+    <result xml:space="preserve">You eat some of the flower. It&apos;s sweetly salty, and tingles your tongue. Before you&apos;re able to fully swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338c40" />
+    </children>
+  </item>
+  <item nodeId="node-0x338c40">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x338cb0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a half-eaten mystery flower
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x338d20">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a half-eaten mystery flower
+
+You&apos;re elated now, and you&apos;re getting uncomfortably tachycardic.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338d90" />
+    </children>
+  </item>
+  <item nodeId="node-0x338d90">
+    <command xml:space="preserve">eat flower</command>
+    <result xml:space="preserve">You eat some of the flower. It&apos;s sweetly salty, and tingles your tongue. Before you&apos;re able to fully swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338e00" />
+    </children>
+  </item>
+  <item nodeId="node-0x338e00">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="67">YES</temporary>
+    <children>
+      <child nodeId="node-0x338e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x338e70">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a half-eaten mystery flower
+
+You fall over twitching. Your heart feels like it&apos;s deflating, beating sideways, skipping more and more beats. You tingle and twitch as your entire body is deprived of oxygen. You struggle back to your feet.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="66">YES</temporary>
+  </item>
+  <item nodeId="node-0x338ee0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">
+
+What will your name be?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x339ea0" />
+      <child nodeId="node-0x339030" />
+      <child nodeId="node-0x338f50" />
+    </children>
+  </item>
+  <item nodeId="node-0x338f50">
+    <command xml:space="preserve">Adaline Braun</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x338fc0" />
+      <child nodeId="node-0x5c2a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x5c2a90">
+    <command xml:space="preserve">j</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x141314e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x141314e0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+  </item>
+  <item nodeId="node-0x338fc0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="44">YES</temporary>
+  </item>
+  <item nodeId="node-0x339030">
+    <command xml:space="preserve">ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x3399d0" />
+      <child nodeId="node-0x3390a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3390a0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x339110" />
+    </children>
+  </item>
+  <item nodeId="node-0x339110">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+In a sandy depression at the edge of the cliff there is a cluster of flowers, wedged between grass and rock.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x339570" />
+      <child nodeId="node-0x339180" />
+    </children>
+  </item>
+  <item nodeId="node-0x339180">
+    <command xml:space="preserve">get flowers. eat flowers</command>
+    <result xml:space="preserve">Taken.
+
+You eat one of the flowers. It&apos;s sweetly salty, and tingles your tongue. Before you&apos;re able to swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0x3391f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3391f0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  4 mystery flowers
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0x339260" />
+    </children>
+  </item>
+  <item nodeId="node-0x339260">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0x3392d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3392d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+You&apos;re elated now, and you&apos;re getting uncomfortably tachycardic.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0x339340" />
+    </children>
+  </item>
+  <item nodeId="node-0x339340">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  4 mystery flowers
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0x3393b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3393b0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0x339420" />
+    </children>
+  </item>
+  <item nodeId="node-0x339420">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+You fall over twitching. Your heart feels like it&apos;s deflating, sloppily sending blood all over the place, and skipping more and more beats. You tingle and twitch as your entire body is deprived of oxygen. You struggle back to your feet.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0x339490" />
+    </children>
+  </item>
+  <item nodeId="node-0x339490">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  4 mystery flowers
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="70">YES</temporary>
+    <children>
+      <child nodeId="node-0x339500" />
+    </children>
+  </item>
+  <item nodeId="node-0x339500">
+    <command xml:space="preserve">eat flowers</command>
+    <result xml:space="preserve">You eat one of the flowers. It&apos;s sweetly salty, and tingles your tongue. Before you&apos;re able to swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.
+
+
+    *** Your heart rolls to a stop as you slip into death with your whole body humming. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="69">YES</temporary>
+  </item>
+  <item nodeId="node-0x339570">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a backpack (being worn, and open but empty)
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x3395e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3395e0">
+    <command xml:space="preserve">get flower</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x339650" />
+    </children>
+  </item>
+  <item nodeId="node-0x339650">
+    <command xml:space="preserve">get flowers</command>
+    <result xml:space="preserve">Taken.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x3396c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3396c0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  5 flowers
+  a backpack (being worn, and open but empty)
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x339730" />
+    </children>
+  </item>
+  <item nodeId="node-0x339730">
+    <command xml:space="preserve">put flowers in pack</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x3397a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3397a0">
+    <command xml:space="preserve">put flowers in backpack</command>
+    <result xml:space="preserve">You put 5 flowers into the backpack.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x339810" />
+    </children>
+  </item>
+  <item nodeId="node-0x339810">
+    <command xml:space="preserve">get one flower</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x339880" />
+    </children>
+  </item>
+  <item nodeId="node-0x339880">
+    <command xml:space="preserve">get flowers</command>
+    <result xml:space="preserve">Taken.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x3398f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3398f0">
+    <command xml:space="preserve">eat flowers</command>
+    <result xml:space="preserve">You eat one of the flowers. It&apos;s sweetly salty, and tingles your tongue. Before you&apos;re able to swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="95">YES</temporary>
+    <children>
+      <child nodeId="node-0x339960" />
+    </children>
+  </item>
+  <item nodeId="node-0x339960">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  4 mystery flowers
+  a backpack (being worn, and open but empty)
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="94">YES</temporary>
+  </item>
+  <item nodeId="node-0x3399d0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">
+
+
+
+Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="65">YES</temporary>
+    <children>
+      <child nodeId="node-0x339a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x339a40">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="64">YES</temporary>
+  </item>
+  <item nodeId="node-0x339ea0">
+    <command xml:space="preserve">Ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x339f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x339f10">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a290" />
+      <child nodeId="node-0x339f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x339f80">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x339ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x339ff0">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+In a sandy depression at the edge of the cliff there is a cluster of flowers, wedged between grass and rock.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a060" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a060">
+    <command xml:space="preserve">get flowers</command>
+    <result xml:space="preserve">Taken.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a0d0">
+    <command xml:space="preserve">eat one</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a140" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a140">
+    <command xml:space="preserve">eat them</command>
+    <result xml:space="preserve">I&apos;m not sure what &apos;them&apos; refers to.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a1b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a1b0">
+    <command xml:space="preserve">eat flowers</command>
+    <result xml:space="preserve">You eat one of the flowers. It&apos;s sweetly salty, and tingles your tongue. Before you&apos;re able to swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a220" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a220">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+  </item>
+  <item nodeId="node-0x33a290">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Cliff&apos;s Edge
+There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+
+
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a350" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a350">
+    <command xml:space="preserve">l flower</command>
+    <result xml:space="preserve">You see nothing special about the small quantity of flower.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a3c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a3c0">
+    <command xml:space="preserve">get flower</command>
+    <result xml:space="preserve">Taken.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a430" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a430">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">You already have that.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a4a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a4a0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a small quantity of flower
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a510" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a510">
+    <command xml:space="preserve">get flower</command>
+    <result xml:space="preserve">You already have that.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a580" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a580">
+    <command xml:space="preserve">count flower</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a5f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a5f0">
+    <command xml:space="preserve">x flower</command>
+    <result xml:space="preserve">You see nothing special about the small quantity of flower.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a660" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a660">
+    <command xml:space="preserve">x flower</command>
+    <result xml:space="preserve">You see nothing special about the mystery flower.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a6d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a6d0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a mystery flower
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a740" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a740">
+    <command xml:space="preserve">x flower</command>
+    <result xml:space="preserve">You see nothing special about the mystery flower.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a7b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a7b0">
+    <command xml:space="preserve">x flower</command>
+    <result xml:space="preserve">You see nothing special about the mystery flower.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a820" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a820">
+    <command xml:space="preserve">eat it</command>
+    <result xml:space="preserve">You eat some of the flower. It&apos;s sweetly salty, and tingles your tongue. Before you&apos;re able to fully swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a890" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a890">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">The only way out is northwest.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a900" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a900">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">The only way out is northwest.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a970" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a970">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+You&apos;re elated now, and you&apos;re getting uncomfortably tachycardic.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33a9e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33a9e0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Outside Dwelling
+Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
+
+The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
+
+The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33aa50" />
+    </children>
+  </item>
+  <item nodeId="node-0x33aa50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
+
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="129">YES</temporary>
+    <children>
+      <child nodeId="node-0x33aac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x33aac0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Outside Dwelling
+Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
+
+The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
+
+The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
+
+You fall over twitching. Your heart feels like it&apos;s deflating, sloppily pushing blood all over the place, and skipping more and more beats. You tingle and twitch as your entire body is deprived of oxygen. You struggle back to your feet.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="128">YES</temporary>
+  </item>
+</Skein>
