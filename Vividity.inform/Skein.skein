@@ -1,13 +1,20 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x758b20" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x652520" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x1450da10" />
-  <item nodeId="node-0x758b20">
+  <activeNode nodeId="node-0x653250" />
+  <item nodeId="node-0x652520">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
 
+Rosy mist departs around a falling man. Extravagant kinematics close his fate tightly. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, traced down through cracks by a man now crumpled into a outcropped ravine. Some of the onlookers squirm at the sight; others are significantly more moved by it. Before too long, and after the catwalk underwent a thorough scrubbing down by the real heroes in this situation, the crowd thinned. Authorities came and went; nobody saw who shot him. the man and his killer were at the cliff&apos;s edge, and the outlook platform was more than halfway down into the canyon. There was nothing to be done for the poor man, so many began to leave the platform, in disgust or boredom.
+
+One woman didn&apos;t leave. She stood, transfixed by the coral and mauve stains on the rocks as a sunset of rainbows fell on the canyon. Evening faded the canyon&apos;s vibrance, but she still had them glowing within her: she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades, she would keep for the rest of her days.
+
+&quot;Adaline, let&apos;s go.&quot;
+
+Gentiana, getting impatient, prodded at her friend. She had given Ada more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
 </result>
     <commentary xml:space="preserve">
 
@@ -23,243 +30,14 @@ You can see a leaflet here.
 
 &gt;</commentary>
     <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="182">NO</temporary>
+    <changed>YES</changed>
+    <temporary score="26">NO</temporary>
     <children>
-      <child nodeId="node-0x7a9f90" />
-      <child nodeId="node-0x7aa500" />
-      <child nodeId="node-0x7a9900" />
-      <child nodeId="node-0x7d8070" />
-      <child nodeId="node-0x758c50" />
+      <child nodeId="node-0x652dc0" />
+      <child nodeId="node-0x6525a0" />
     </children>
   </item>
-  <item nodeId="node-0x758c50">
-    <command xml:space="preserve">Adaline Braun</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-What will your name be?    &gt;  </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="345">YES</temporary>
-    <children>
-      <child nodeId="node-0x7a99b0" />
-      <child nodeId="node-0x7a9960" />
-      <child nodeId="node-0x758ea0" />
-      <child nodeId="node-0x758ca0" />
-    </children>
-  </item>
-  <item nodeId="node-0x758ca0">
-    <command xml:space="preserve">Cane</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-What will your name be?    &gt;  </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="345">YES</temporary>
-    <children>
-      <child nodeId="node-0x758e50" />
-    </children>
-  </item>
-  <item nodeId="node-0x758e50">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Seaside Cliff
-A serene breeze rolls over the terrace and eddies overtop the northeast trees, which are almost flush with the plateau.
-
-A leaflet is held down by a rock, an edge fluttering in the breeze.
-
-What will your name be?    &gt;  </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="344">YES</temporary>
-  </item>
-  <item nodeId="node-0x758ea0">
-    <command xml:space="preserve">Female</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="342">YES</temporary>
-    <children>
-      <child nodeId="node-0x758ef0" />
-    </children>
-  </item>
-  <item nodeId="node-0x758ef0">
-    <command xml:space="preserve">Adaline Braun</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="342">YES</temporary>
-    <children>
-      <child nodeId="node-0x7a9870" />
-    </children>
-  </item>
-  <item nodeId="node-0x7a9870">
-    <command xml:space="preserve">adlkf</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="341">YES</temporary>
-  </item>
-  <item nodeId="node-0x7a9960">
-    <command xml:space="preserve">female</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="337">YES</temporary>
-  </item>
-  <item nodeId="node-0x7a99b0">
-    <command xml:space="preserve">male</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="335">YES</temporary>
-    <children>
-      <child nodeId="node-0x7a9a00" />
-    </children>
-  </item>
-  <item nodeId="node-0x7a9a00">
-    <command xml:space="preserve">male</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-Are you male or female?    &gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="318">YES</temporary>
-    <children>
-      <child nodeId="node-0x7a9a70" />
-    </children>
-  </item>
-  <item nodeId="node-0x7a9a70">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-Are you male or female?    &gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="318">YES</temporary>
-    <children>
-      <child nodeId="node-0x7a9ae0" />
-    </children>
-  </item>
-  <item nodeId="node-0x7a9ae0">
-    <command xml:space="preserve">adsf</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-Are you male or female?    &gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="318">YES</temporary>
-    <children>
-      <child nodeId="node-0x7a9c10" />
-    </children>
-  </item>
-  <item nodeId="node-0x7a9c10">
-    <command xml:space="preserve">female</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-Are you male or female?    &gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="317">YES</temporary>
-  </item>
-  <item nodeId="node-0x7d8070">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, tracing down through cracks by a man now crumpled into a outcropped ravine. Some of the onlookers squirm at the sight, while others are quite a bit more moved by it. Before too long, and after the catwalk underwent a good scrubbing down by the real heroes in this situation, the crowd thinned. There was obviously nothing to be done for the poor man, so many began to leave the platform, in disgust or boredom.
-
-One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood on the rocks, and the sunset of rainbows falling on the canyon. From that evening on, she had them glowing within her, she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades of which she would keep for the rest of her days. Gentiana, getting impatient, prodded at her friend. &quot;Adaline, let&apos;s go.&quot; Gentiana had given her more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
-</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="88">YES</temporary>
-    <children>
-      <child nodeId="node-0x72acb0" />
-    </children>
-  </item>
-  <item nodeId="node-0x72acb0">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">
-Vividity
-An exercise in adventure puzzles and overwriting by Ben Scott
-Release 1 / Serial number 150330 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
-
-Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northwest trees, which are almost flush with the plateau.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="88">YES</temporary>
-    <children>
-      <child nodeId="node-0xd522d60" />
-    </children>
-  </item>
-  <item nodeId="node-0xd522d60">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="88">YES</temporary>
-    <children>
-      <child nodeId="node-0x1cf110" />
-    </children>
-  </item>
-  <item nodeId="node-0x1cf110">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="88">YES</temporary>
-    <children>
-      <child nodeId="node-0x7d4440" />
-    </children>
-  </item>
-  <item nodeId="node-0x7d4440">
-    <command xml:space="preserve">se</command>
-    <result xml:space="preserve">
-Cliff&apos;s Edge
-There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
-
-In a sandy depression at the edge of the cliff there is a cluster of flowers, wedged between grass and rock.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="88">YES</temporary>
-    <children>
-      <child nodeId="node-0x5d6740" />
-    </children>
-  </item>
-  <item nodeId="node-0x5d6740">
-    <command xml:space="preserve">FUCK</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="87">YES</temporary>
-  </item>
-  <item nodeId="node-0x7a9900">
+  <item nodeId="node-0x6525a0">
     <command xml:space="preserve">þ</command>
     <result xml:space="preserve">Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, tracing down through cracks by a man now crumpled into a outcropped ravine. Some of the onlookers squirm at the sight, while others are quite a bit more moved by it. Before too long, and after the catwalk underwent a good scrubbing down by the real heroes in this situation, the crowd thinned. There was obviously nothing to be done for the poor man, so many began to leave the platform, in disgust or boredom.
 
@@ -267,1205 +45,535 @@ One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood 
 </result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="177">YES</temporary>
+    <temporary score="29">YES</temporary>
     <children>
-      <child nodeId="node-0x7a9c80" />
+      <child nodeId="node-0x652610" />
     </children>
   </item>
-  <item nodeId="node-0x7a9c80">
+  <item nodeId="node-0x652610">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">
-You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts, anyways. You seem to wake up, again, with your face as cold as death, in the grime of the tile floor. Your stomach lining tastes different today. You begin to get up, but then the visceral stack of mistakes you&apos;re popping draw your attention. This drawn-out agony you&apos;re in, boy. If she hadn&apos;t&apos;ve left last month, you&apos;re pretty sure none of this would have happened to you. It just got to be really bad about a week after she came home like... you don&apos;t really know what was wrong with her. Her really odd behaviour started that day, and just like hers, your little nightmare never really went away. It&apos;s too far apart: the dopamine rush is so delayed, it&apos;s so far away from the agony that Pavlov really can&apos;t help you out. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to look at yourself like this.
-
-Do you look at yourself?  
-
-</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="177">YES</temporary>
-    <children>
-      <child nodeId="node-0xd589370" />
-      <child nodeId="node-0x7e7630" />
-      <child nodeId="node-0x7a9e40" />
-      <child nodeId="node-0xac1cd50" />
-    </children>
-  </item>
-  <item nodeId="node-0xac1cd50">
-    <command xml:space="preserve">yes</command>
-    <result xml:space="preserve">Dear lord. It isn&apos;t quite a sobering experience, but it&apos;s reflective. You&apos;re emaciated, haggard, and you still have some of your stomach lining in the corner of your mouth. The esophageal burning went away within the first week or so, but even though your nerves are so burned that it only tickles, it&apos;s getting more persistent. The ruggedness ain&apos;t the sexy kind, either, you look veritably awful.
-
 
 What will your name be?  </result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="177">YES</temporary>
-    <children>
-      <child nodeId="node-0x5f9cc0" />
-    </children>
-  </item>
-  <item nodeId="node-0x5f9cc0">
-    <command xml:space="preserve">no</command>
-    <result xml:space="preserve">&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="177">YES</temporary>
-    <children>
-      <child nodeId="node-0x5916e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x5916e0">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Your Quarters
- 
-
-Your tattered backpack is here. You typically don&apos;t leave home without it.
-
-Your door is a lightweight sliding panel, heavy enough to stop the rocky winds, but light enough to have been moved here for you to live.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="177">YES</temporary>
-    <children>
-      <child nodeId="node-0x12187a80" />
-    </children>
-  </item>
-  <item nodeId="node-0x12187a80">
-    <command xml:space="preserve">restart</command>
-    <result xml:space="preserve">Are you sure you want to restart? </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="177">YES</temporary>
-    <children>
-      <child nodeId="node-0x1d42c2c0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1d42c2c0">
-    <command xml:space="preserve">y</command>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="176">YES</temporary>
-  </item>
-  <item nodeId="node-0x7a9e40">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
     <changed>NO</changed>
-    <temporary score="96">YES</temporary>
+    <temporary score="29">YES</temporary>
     <children>
-      <child nodeId="node-0x7b1980" />
+      <child nodeId="node-0x652980" />
+      <child nodeId="node-0x652780" />
+      <child nodeId="node-0x652680" />
     </children>
   </item>
-  <item nodeId="node-0x7b1980">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">You can only go north and inside.
-
-&gt;</result>
+  <item nodeId="node-0x652680">
+    <command xml:space="preserve">Paul</command>
+    <result xml:space="preserve">Are you male or female?  </result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="96">YES</temporary>
+    <temporary score="29">YES</temporary>
     <children>
-      <child nodeId="node-0x75b640" />
+      <child nodeId="node-0x652730" />
     </children>
   </item>
-  <item nodeId="node-0x75b640">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="96">YES</temporary>
-    <children>
-      <child nodeId="node-0x12134ec0" />
-    </children>
-  </item>
-  <item nodeId="node-0x12134ec0">
-    <command xml:space="preserve">restart</command>
-    <result xml:space="preserve">Are you sure you want to restart? </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="96">YES</temporary>
-    <children>
-      <child nodeId="node-0x7d7890" />
-    </children>
-  </item>
-  <item nodeId="node-0x7d7890">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">Please answer yes or no.&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="96">YES</temporary>
-    <children>
-      <child nodeId="node-0x12141220" />
-    </children>
-  </item>
-  <item nodeId="node-0x12141220">
-    <command xml:space="preserve">y</command>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="95">YES</temporary>
-  </item>
-  <item nodeId="node-0x7e7630">
-    <command xml:space="preserve">asdf</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x1211f220" />
-    </children>
-  </item>
-  <item nodeId="node-0x1211f220">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0xac55950" />
-    </children>
-  </item>
-  <item nodeId="node-0xac55950">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x10b0e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x10b0e0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0xd572ad0" />
-    </children>
-  </item>
-  <item nodeId="node-0xd572ad0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x12136910" />
-    </children>
-  </item>
-  <item nodeId="node-0x12136910">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0xd549dc0" />
-    </children>
-  </item>
-  <item nodeId="node-0xd549dc0">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x3d65d0" />
-    </children>
-  </item>
-  <item nodeId="node-0x3d65d0">
-    <command xml:space="preserve">asdf</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x37c850" />
-    </children>
-  </item>
-  <item nodeId="node-0x37c850">
-    <command xml:space="preserve">asdf</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x5e7860" />
-    </children>
-  </item>
-  <item nodeId="node-0x5e7860">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0xac25470" />
-    </children>
-  </item>
-  <item nodeId="node-0xac25470">
-    <command xml:space="preserve">south</command>
-    <result xml:space="preserve">You can only go north and inside.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0xd547760" />
-    </children>
-  </item>
-  <item nodeId="node-0xd547760">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x1211f4b0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1211f4b0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0xac561b0" />
-    </children>
-  </item>
-  <item nodeId="node-0xac561b0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x7cdb80" />
-    </children>
-  </item>
-  <item nodeId="node-0x7cdb80">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0xac15f00" />
-    </children>
-  </item>
-  <item nodeId="node-0xac15f00">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0xd558960" />
-    </children>
-  </item>
-  <item nodeId="node-0xd558960">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">You can only go north and inside.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x7c4a90" />
-    </children>
-  </item>
-  <item nodeId="node-0x7c4a90">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="135">YES</temporary>
-    <children>
-      <child nodeId="node-0x12116ee0" />
-    </children>
-  </item>
-  <item nodeId="node-0x12116ee0">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="134">YES</temporary>
-  </item>
-  <item nodeId="node-0xd589370">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x15d1c0" />
-    </children>
-  </item>
-  <item nodeId="node-0x15d1c0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x14506bf0" />
-    </children>
-  </item>
-  <item nodeId="node-0x14506bf0">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x5e9fd0" />
-    </children>
-  </item>
-  <item nodeId="node-0x5e9fd0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x74ef20" />
-    </children>
-  </item>
-  <item nodeId="node-0x74ef20">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x7961f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x7961f0">
-    <command xml:space="preserve">asdf</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x5ef800" />
-    </children>
-  </item>
-  <item nodeId="node-0x5ef800">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0xd5bc330" />
-    </children>
-  </item>
-  <item nodeId="node-0xd5bc330">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be760" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be760">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x12131770" />
-    </children>
-  </item>
-  <item nodeId="node-0x12131770">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x3f27d0" />
-    </children>
-  </item>
-  <item nodeId="node-0x3f27d0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x7ce060" />
-    </children>
-  </item>
-  <item nodeId="node-0x7ce060">
-    <command xml:space="preserve">sw</command>
-    <result xml:space="preserve">
-Forest Overlook
-At a gentle angle, the ocean-facing side of the plateau slides down to form a nice, shady spot beneath the trees. From here, the gargantuan arbors string all the way up above the raised rock of the terrace. There are tufts of branches almost within reach at the edge of the cliff.
-
-Down along the cliff&apos;s edge, one of the more colorful trees seems to have dropped some round fruits to the canyon&apos;s surface.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0xac351d0" />
-    </children>
-  </item>
-  <item nodeId="node-0xac351d0">
-    <command xml:space="preserve">ne</command>
-    <result xml:space="preserve">
-Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x5e02f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x5e02f0">
-    <command xml:space="preserve">ne</command>
-    <result xml:space="preserve">
-Road to the Canyon&apos;s Stairway
-By some wonder of igneous intrusion, the northern edge of the Terrace has a set of 6 stair-like stone batholiths, all following the Terrace&apos;s ragged edge. With one exception, they even descend in order. An amalgam of small shops and transportation businesses have made themselves right at home on the terrace surface, and a small residential sector spreads down to the first step.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x3bb590" />
-    </children>
-  </item>
-  <item nodeId="node-0x3bb590">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-The Town of Harston
-This little boomtown has dug itself into the hard sandstone surface of the Terrace. Most of the shops are brimming with life, and the stone streets have been worn to the bare rock by thick rubber wheels and the foot traffic of a very busy people. The stores to the east are so crowded that you&apos;d likely be injured if you tried to buy something there, but the west end is quieter. There is a utilities shop to the west, a closed, nondescript shop to the southwest, and a cablecar service to the northwest.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x1218b440" />
-    </children>
-  </item>
-  <item nodeId="node-0x1218b440">
-    <command xml:space="preserve">sw</command>
-    <result xml:space="preserve">You can only go northwest, south, and west.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x795130" />
-    </children>
-  </item>
-  <item nodeId="node-0x795130">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">(first opening the Utility Shop Door)
-
-Harold&apos;s Utility Store
-A large, round man stands in a cacophony of fresh hiking supplies and tools which decrease in quality with the square of the distance from his admittedly long reach.
-
-
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0xac4c0f0" />
-    </children>
-  </item>
-  <item nodeId="node-0xac4c0f0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Harold&apos;s Utility Store
-A large, round man stands in a cacophony of fresh hiking supplies and tools which decrease in quality with the square of the distance from his admittedly long reach.
-
-
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x1288d0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1288d0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-The Town of Harston
-This little boomtown has dug itself into the hard sandstone surface of the Terrace. Most of the shops are brimming with life, and the stone streets have been worn to the bare rock by thick rubber wheels and the foot traffic of a very busy people. The stores to the east are so crowded that you&apos;d likely be injured if you tried to buy something there, but the west end is quieter. There is a utilities shop to the west, a closed, nondescript shop to the southwest, and a cablecar service to the northwest.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-    <children>
-      <child nodeId="node-0x749140" />
-    </children>
-  </item>
-  <item nodeId="node-0x749140">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Road to the Canyon&apos;s Stairway
-By some wonder of igneous intrusion, the northern edge of the Terrace has a set of 6 stair-like stone batholiths, all following the Terrace&apos;s ragged edge. With one exception, they even descend in order. An amalgam of small shops and transportation businesses have made themselves right at home on the terrace surface, and a small residential sector spreads down to the first step.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="160">YES</temporary>
-  </item>
-  <item nodeId="node-0x7aa500">
-    <command xml:space="preserve">asdf</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-Are you male or female?    &gt;  </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="330">YES</temporary>
-    <children>
-      <child nodeId="node-0x7a9f20" />
-    </children>
-  </item>
-  <item nodeId="node-0x7a9f20">
+  <item nodeId="node-0x652730">
     <command xml:space="preserve">male</command>
-    <result xml:space="preserve">&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="329">YES</temporary>
-  </item>
-  <item nodeId="node-0x7a9f90">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, tracing down through cracks by a man now crumpled into a outcropped ravine. Some of the onlookers squirm at the sight, while others are quite a bit more moved by it. Before too long, and after the catwalk underwent a good scrubbing down by the real heroes in this situation, the crowd thinned. There was obviously nothing to be done for the poor man, so many began to leave the platform, in disgust or boredom.
-
-One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood on the rocks, and the sunset of rainbows falling on the canyon. From that evening on, she had them glowing within her, she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades of which she would keep for the rest of her days. Gentiana, getting impatient, prodded at her friend. &quot;Adaline, let&apos;s go.&quot; Gentiana had given her more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
-</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="182">YES</temporary>
-    <children>
-      <child nodeId="node-0x7aa000" />
-    </children>
-  </item>
-  <item nodeId="node-0x7aa000">
-    <command xml:space="preserve"></command>
     <result xml:space="preserve">
-You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts, anyways. You seem to wake up, again, with your face as cold as death, in the grime of the tile floor. Your stomach lining tastes different today. You begin to get up, but then the visceral stack of mistakes you&apos;re popping draw your attention. This drawn-out agony you&apos;re in, boy. If she hadn&apos;t&apos;ve left last month, you&apos;re pretty sure none of this would have happened to you. It just got to be really bad about a week after she came home like... you don&apos;t really know what was wrong with her. Her really odd behaviour started that day, and just like hers, your little nightmare never really went away. It&apos;s too far apart: the dopamine rush is so delayed, it&apos;s so far away from the agony that Pavlov really can&apos;t help you out. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to look at yourself like this.
 
-Do you look at yourself?  
+You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts, anyways. You seem to wake up, again, with your face as cold as death, in the grime of the tile floor. Your stomach lining tastes different today. You begin to get up, but then the visceral stack of mistakes you&apos;re popping draw your attention. This drawn-out agony you&apos;re in, boy. If she hadn&apos;t&apos;ve left last month, you&apos;re pretty sure none of this would have happened to you. It just got to be really bad about a week after she came home like... you don&apos;t really know what was wrong with her. Her really odd behaviour started that day, and just like hers, your little nightmare never really went away. It&apos;s too far apart: the dopamine rush is so delayed, it&apos;s so far away from the agony that Pavlov really can&apos;t help you out. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
 
-</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="182">YES</temporary>
-    <children>
-      <child nodeId="node-0x7aa9e0" />
-      <child nodeId="node-0x7aa5e0" />
-      <child nodeId="node-0x3eeb40" />
-      <child nodeId="node-0x7d80d0" />
-      <child nodeId="node-0x7e97b0" />
-    </children>
-  </item>
-  <item nodeId="node-0x7e97b0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
+Do you look at yourself?  </result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="139">YES</temporary>
-    <children>
-      <child nodeId="node-0x5e5680" />
-    </children>
+    <temporary score="28">YES</temporary>
   </item>
-  <item nodeId="node-0x5e5680">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
-
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
-
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="138">YES</temporary>
-  </item>
-  <item nodeId="node-0x7d80d0">
-    <command xml:space="preserve">yes</command>
-    <result xml:space="preserve">Dear lord. It isn&apos;t quite a sobering experience, but it&apos;s reflective. You&apos;re emaciated, haggard, and you still have some of your stomach lining in the corner of your mouth. The esophageal burning went away within the first week or so, but even though your nerves are so burned that it only tickles, it&apos;s getting more persistent. The ruggedness ain&apos;t the sexy kind, either, you look veritably awful.
-
-
-What will your name be?  </result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="182">YES</temporary>
-    <children>
-      <child nodeId="node-0xac18830" />
-    </children>
-  </item>
-  <item nodeId="node-0xac18830">
+  <item nodeId="node-0x652780">
     <command xml:space="preserve">Ada</command>
-    <result xml:space="preserve">&gt; </result>
+    <result xml:space="preserve">Are you male or female?  </result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="182">YES</temporary>
+    <temporary score="53">YES</temporary>
     <children>
-      <child nodeId="node-0x1450da10" />
+      <child nodeId="node-0x6527f0" />
     </children>
   </item>
-  <item nodeId="node-0x1450da10">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Your Quarters
- 
+  <item nodeId="node-0x6527f0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts, anyways. You seem to wake up, again, with your face as cold as death, in the grime of the tile floor. Your stomach lining tastes different today. You begin to get up, but then the visceral stack of mistakes you&apos;re popping draw your attention. This drawn-out agony you&apos;re in, boy. If she hadn&apos;t&apos;ve left last month, you&apos;re pretty sure none of this would have happened to you. It just got to be really bad about a week after she came home like... you don&apos;t really know what was wrong with her. Her really odd behaviour started that day, and just like hers, your little nightmare never really went away. It&apos;s too far apart: the dopamine rush is so delayed, it&apos;s so far away from the agony that Pavlov really can&apos;t help you out. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to look at yourself like this.
 
-Your tattered backpack is here. You typically don&apos;t leave home without it.
-
-Your door is a lightweight sliding panel, heavy enough to stop the rocky winds, but light enough to have been moved here for you to live.
-
-&gt; </result>
+Do you look at yourself?  </result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="181">YES</temporary>
+    <temporary score="53">YES</temporary>
     <children>
-      <child nodeId="node-0xd5bf810" />
+      <child nodeId="node-0x6528e0" />
     </children>
   </item>
-  <item nodeId="node-0xd5bf810">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Your Quarters
-Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
-
-Your tattered backpack is here. You typically don&apos;t leave home without it.
-
-Your door is a lightweight sliding panel, heavy enough to stop the rocky winds, but light enough to have been moved here for you to live.
-
-&gt; </result>
+  <item nodeId="node-0x6528e0">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse.
+</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="170">YES</temporary>
+    <temporary score="53">YES</temporary>
     <children>
-      <child nodeId="node-0x794af0" />
+      <child nodeId="node-0x652930" />
     </children>
   </item>
-  <item nodeId="node-0x794af0">
-    <command xml:space="preserve">get backpack</command>
-    <result xml:space="preserve">Taken.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="170">YES</temporary>
-    <children>
-      <child nodeId="node-0x1d42c5c0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1d42c5c0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Your Quarters
-Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
-
-Your door is a lightweight sliding panel, heavy enough to stop the rocky winds, but light enough to have been moved here for you to live.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="170">YES</temporary>
-    <children>
-      <child nodeId="node-0x5f2e00" />
-    </children>
-  </item>
-  <item nodeId="node-0x5f2e00">
-    <command xml:space="preserve">x pack</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt; </result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="169">YES</temporary>
-  </item>
-  <item nodeId="node-0x3eeb40">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0xd542650" />
-    </children>
-  </item>
-  <item nodeId="node-0xd542650">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0xac24da0" />
-    </children>
-  </item>
-  <item nodeId="node-0xac24da0">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0xd549600" />
-    </children>
-  </item>
-  <item nodeId="node-0xd549600">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0x7fb040" />
-    </children>
-  </item>
-  <item nodeId="node-0x7fb040">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0x12155b20" />
-    </children>
-  </item>
-  <item nodeId="node-0x12155b20">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0xd5d6170" />
-    </children>
-  </item>
-  <item nodeId="node-0xd5d6170">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0x12102410" />
-    </children>
-  </item>
-  <item nodeId="node-0x12102410">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0xd511c00" />
-    </children>
-  </item>
-  <item nodeId="node-0xd511c00">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0x5de850" />
-    </children>
-  </item>
-  <item nodeId="node-0x5de850">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0x7e7b40" />
-    </children>
-  </item>
-  <item nodeId="node-0x7e7b40">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0xd593430" />
-    </children>
-  </item>
-  <item nodeId="node-0xd593430">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0xd540700" />
-    </children>
-  </item>
-  <item nodeId="node-0xd540700">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0x1210c970" />
-    </children>
-  </item>
-  <item nodeId="node-0x1210c970">
+  <item nodeId="node-0x652930">
     <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0x1213f6f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1213f6f0">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="114">YES</temporary>
-    <children>
-      <child nodeId="node-0x7b1e20" />
-    </children>
-  </item>
-  <item nodeId="node-0x7b1e20">
-    <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="113">YES</temporary>
-  </item>
-  <item nodeId="node-0x7aa5e0">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Seaside Cliff
-The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="82">YES</temporary>
-    <children>
-      <child nodeId="node-0x7aa650" />
-    </children>
-  </item>
-  <item nodeId="node-0x7aa650">
-    <command xml:space="preserve">s</command>
     <result xml:space="preserve">
-Outside Dwelling
-Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere.
+Your Quarters
+Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
 
-The front porthole appears to be locked. It is quite sturdy, and there is a sizeable wheel at it&apos;s center.
+Your tattered backpack is here. You typically don&apos;t leave home without it.
+Your door is a lightweight sliding panel, heavy enough to stop the rocky winds, but light enough to have been moved here for you to live. 
+That was a rhetorical question.
 
-The pathways are girded by brass and iron railings, which are sturdily fastened to the herringbone pathways.
-
-&gt;</result>
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="52">YES</temporary>
+  </item>
+  <item nodeId="node-0x652980">
+    <command xml:space="preserve">ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="82">YES</temporary>
-  </item>
-  <item nodeId="node-0x7aa9e0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">You can only go northeast, south, southeast, and southwest.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="134">YES</temporary>
+    <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x7aac80" />
-      <child nodeId="node-0x7aaa50" />
+      <child nodeId="node-0x6529f0" />
     </children>
   </item>
-  <item nodeId="node-0x7aaa50">
-    <command xml:space="preserve">ne</command>
+  <item nodeId="node-0x6529f0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts, anyways. You seem to wake up, again, with your face as cold as death, in the grime of the tile floor. Your stomach lining tastes different today. You begin to get up, but then the visceral stack of mistakes you&apos;re popping draw your attention. This drawn-out agony you&apos;re in, boy. If she hadn&apos;t&apos;ve left last month, you&apos;re pretty sure none of this would have happened to you. It just got to be really bad about a week after she came home like... you don&apos;t really know what was wrong with her. Her really odd behaviour started that day, and just like hers, your little nightmare never really went away. It&apos;s too far apart: the dopamine rush is so delayed, it&apos;s so far away from the agony that Pavlov really can&apos;t help you out. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to look at yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="33">YES</temporary>
+    <children>
+      <child nodeId="node-0x652b90" />
+      <child nodeId="node-0x652a60" />
+    </children>
+  </item>
+  <item nodeId="node-0x652a60">
+    <command xml:space="preserve">no</command>
     <result xml:space="preserve">
-Road to the Canyon&apos;s Stairway
-By some wonder of igneous intrusion, the northern edge of the Terrace has a set of 6 stair-like stone batholiths, all following the Terrace&apos;s ragged edge. With one exception, they even descend in order. An amalgam of small shops and transportation businesses have made themselves right at home on the terrace surface, and a small residential sector spreads down to the first step.
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse.
 
-&gt;</result>
+&gt; </result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="82">YES</temporary>
+    <temporary score="32">YES</temporary>
+  </item>
+  <item nodeId="node-0x652b90">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">(first opening Quarters Door)
+
+Outside Quarters
+You&apos;re outside your Quarters, which used to be quite well-kept. You haven&apos;t applied the sealant in months, and the wind-facing surface has become pitted and slightly rusty. The rails girding your catwalks look better, but the bluing is getting worn. Behind your house is a small dropoff. About half of your dome hangs over the edge, and there&apos;s a nice, shady area inside the supporting rods, with herringbone metal steps leading down and around it.
+
+Your door is a lightweight sliding panel, heavy enough to stop the rocky winds, but light enough to have been moved here for you to live.
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="77">YES</temporary>
     <children>
-      <child nodeId="node-0x7aaac0" />
+      <child nodeId="node-0x652880" />
     </children>
   </item>
-  <item nodeId="node-0x7aaac0">
-    <command xml:space="preserve">nw</command>
-    <result xml:space="preserve">You can&apos;t go that way.
+  <item nodeId="node-0x652880">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northwest trees, which are almost flush with the plateau.
 
-&gt;</result>
+A leaflet is held down by a rock, an edge fluttering in the breeze.
+
+&gt; </result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="82">YES</temporary>
+    <temporary score="77">YES</temporary>
     <children>
-      <child nodeId="node-0x7aab30" />
+      <child nodeId="node-0x652c00" />
     </children>
   </item>
-  <item nodeId="node-0x7aab30">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Road to the Canyon&apos;s Stairway
-By some wonder of igneous intrusion, the northern edge of the Terrace has a set of 6 stair-like stone batholiths, all following the Terrace&apos;s ragged edge. With one exception, they even descend in order. An amalgam of small shops and transportation businesses have made themselves right at home on the terrace surface, and a small residential sector spreads down to the first step.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="82">YES</temporary>
-    <children>
-      <child nodeId="node-0x7aaba0" />
-    </children>
-  </item>
-  <item nodeId="node-0x7aaba0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Road to the Canyon&apos;s Stairway
-By some wonder of igneous intrusion, the northern edge of the Terrace has a set of 6 stair-like stone batholiths, all following the Terrace&apos;s ragged edge. With one exception, they even descend in order. An amalgam of small shops and transportation businesses have made themselves right at home on the terrace surface, and a small residential sector spreads down to the first step.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="82">YES</temporary>
-  </item>
-  <item nodeId="node-0x7aac80">
+  <item nodeId="node-0x652c00">
     <command xml:space="preserve">se</command>
     <result xml:space="preserve">
 Cliff&apos;s Edge
 There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
 
-In a sandy depression at the edge of the cliff there is a cluster of flowers, wedged between grass and rock.
 
-&gt;</result>
+
+
+
+
+
+
+
+
+
+&gt; </result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="134">YES</temporary>
+    <temporary score="77">YES</temporary>
     <children>
-      <child nodeId="node-0x7aacf0" />
+      <child nodeId="node-0x652c70" />
     </children>
   </item>
-  <item nodeId="node-0x7aacf0">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Cliff&apos;s Edge
-There&apos;s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north.
+  <item nodeId="node-0x652c70">
+    <command xml:space="preserve">x nightshade</command>
+    <result xml:space="preserve">The flowers are a brilliant shade of purple, their petals fade to black around the edges. The leaves are quite round. They seem to dart around, as if the wind is pushing them faster. There are quite a few varieties of this plant that you&apos;ve heard about, and while some are known to improve concentration and quell appetite, some varieties are more potent, and possibly dangerous. You don&apos;t know enough about botany to really tell if these flowers can kill you. Perhaps you can find someone who does.
 
-In a sandy depression at the edge of the cliff there is a cluster of flowers, wedged between grass and rock.
 
-&gt;</result>
+                   A hallowed thing- - to drop a life - Into the purple well- - Too plummetless- - that it return- - Eternity- until- - F 307 (1862) 271&gt; </result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="133">YES</temporary>
+    <temporary score="77">YES</temporary>
+    <children>
+      <child nodeId="node-0x652ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x652ce0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="77">YES</temporary>
+    <children>
+      <child nodeId="node-0x652d50" />
+    </children>
+  </item>
+  <item nodeId="node-0x652d50">
+    <command xml:space="preserve">huh?</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="76">YES</temporary>
+  </item>
+  <item nodeId="node-0x652dc0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">Rosy mist departs around a falling man. An extravagant bit of kinematics closes his fate tightly. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, tracing down through cracks by a man now crumpled into a outcropped ravine. Some of the onlookers squirm at the sight, while others are quite a bit more moved by it. Before too long, and after the catwalk underwent a good scrubbing down by the real heroes in this situation, the crowd thinned. There was obviously nothing to be done for the poor man, so many began to leave the platform, in disgust or boredom.
+
+One woman didn&apos;t leave. She stood, transfixed by the coral and mauve blood on the rocks, and the sunset of rainbows falling on the canyon. From that evening on, she had them glowing within her, she had his colors in her blood, too. From that evening on, varicolored palettes of light would race through her mind, the tones and shades she would keep, for the rest of her days. Gentiana, getting impatient, prodded at her friend. &quot;Adaline, let&apos;s go.&quot; Gentiana had given her more than enough time to get out of her trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, as a ragged moon began it&apos;s path up through the sky.
+</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="26">YES</temporary>
+    <children>
+      <child nodeId="node-0x652e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x652e30">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">
+What will your name be?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="26">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bf2b0" />
+      <child nodeId="node-0x652ad0" />
+      <child nodeId="node-0x1ae3b0" />
+      <child nodeId="node-0x653170" />
+      <child nodeId="node-0xda068f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xda068f0">
+    <command xml:space="preserve">ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="16">YES</temporary>
+    <children>
+      <child nodeId="node-0x4836f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4836f0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You seem to wake up again, with your face as cold as death, half in the grime of the tile floor. You begin to get up, but then the visceral stack of mistakes you&apos;re popping off now keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="16">YES</temporary>
+    <children>
+      <child nodeId="node-0x6a3c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x6a3c70">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">
+Dear lord.
+It&apos;s less sobering than it is alarming. You turn to start the bath, and then look back at the mirror. You&apos;re emaciated, haggard, and -
+christ -you thrust your face into the running bathwater before you consciously identify what was in the corner of your mouth. The esophageal burning went away a while ago (you&apos;re afriad the nerves there were dissolved by the acid or have just plainly given up), but it&apos;s getting more persistent. You look veritably awful.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face now that can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser.
+
+
+Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+Your Quarters
+Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
+
+Your tattered backpack is here. You typically don&apos;t leave home without it.
+
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+  </item>
+  <item nodeId="node-0x653170">
+    <command xml:space="preserve">Adaline</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="26">YES</temporary>
+    <children>
+      <child nodeId="node-0x6531e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6531e0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+You shudder awake. If you were a bit more careful, rather, if the room was spinning even a little bit slower, you might&apos;ve dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You seem to wake up again, only to find your face half-covered in the grime on your tiled floor. You begin to get up, but the visceral stack of mistakes you&apos;re popping off keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="26">YES</temporary>
+    <children>
+      <child nodeId="node-0x653250" />
+    </children>
+  </item>
+  <item nodeId="node-0x653250">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face now that can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser.
+
+
+Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+Your Quarters
+Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
+
+Your tattered backpack is here. You typically don&apos;t leave home without it.
+
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+  </item>
+  <item nodeId="node-0x1ae3b0">
+    <command xml:space="preserve">Adaline Braun</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ae970" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ae970">
+    <command xml:space="preserve">female</command>
+    <result xml:space="preserve">
+
+You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You seem to wake up again, with your face as cold as death, half in the grime of the tile floor. You begin to get up, but then the visceral stack of mistakes you&apos;re popping off now keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x1136e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1136e0">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face now that can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser.
+
+
+Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+Your Quarters
+Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
+
+Your tattered backpack is here. You typically don&apos;t leave home without it.
+
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="5">YES</temporary>
+  </item>
+  <item nodeId="node-0x652ad0">
+    <command xml:space="preserve">Paul</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x653090" />
+      <child nodeId="node-0x652b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x652b20">
+    <command xml:space="preserve">male</command>
+    <result xml:space="preserve">
+
+You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts, anyways. You seem to wake up, again, with your face as cold as death, in the grime of the tile floor. Your stomach lining tastes different today. You begin to get up, but then the visceral stack of mistakes you&apos;re popping draw your attention. This drawn-out agony you&apos;re in, boy. If she hadn&apos;t&apos;ve left last month, you&apos;re pretty sure none of this would have happened to you. It just got to be really bad about a week after she came home like... you don&apos;t really know what was wrong with her. Her really odd behaviour started that day, and just like hers, your little nightmare never really went away. It&apos;s too far apart: the dopamine rush is so delayed, it&apos;s so far away from the agony that Pavlov really can&apos;t help you out. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x653020" />
+    </children>
+  </item>
+  <item nodeId="node-0x653020">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You shave a solid half of your face properly, and you&apos;re just going to have to deal with the fact that the short hairs around your whorl are going to feel weird every time there&apos;s wind.
+ Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+Your Quarters
+Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
+
+Your tattered backpack is here. You typically don&apos;t leave home without it.
+
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+  </item>
+  <item nodeId="node-0x653090">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">
+
+You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts, anyways. You seem to wake up, again, with your face as cold as death, in the grime of the tile floor. Your stomach lining tastes different today. You begin to get up, but then the visceral stack of mistakes you&apos;re popping draw your attention. This drawn-out agony you&apos;re in, boy. If she hadn&apos;t&apos;ve left last month, you&apos;re pretty sure none of this would have happened to you. It just got to be really bad about a week after she came home like... you don&apos;t really know what was wrong with her. Her really odd behaviour started that day, and just like hers, your little nightmare never really went away. It&apos;s too far apart: the dopamine rush is so delayed, it&apos;s so far away from the agony that Pavlov really can&apos;t help you out. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0x653100" />
+    </children>
+  </item>
+  <item nodeId="node-0x653100">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">
+Dear lord. It&apos;s less sobering than it is alarming. You&apos;re emaciated, haggard, and you still have some of your stomach lining in the corner of your mouth. The esophageal burning went away a while ago (you&apos;re afriad the nerves there were dissolved by the acid or have just plainly given up), but it&apos;s getting more persistent. You look veritably awful.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You shave a solid half of your face properly, and you&apos;re just going to have to deal with the fact that the short hairs around your whorl are going to feel weird every time there&apos;s wind.
+ Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+Your Quarters
+Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
+
+Your tattered backpack is here. You typically don&apos;t leave home without it.
+
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+  </item>
+  <item nodeId="node-0x4bf2b0">
+    <command xml:space="preserve">Ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="21">YES</temporary>
+    <children>
+      <child nodeId="node-0x4be530" />
+      <child nodeId="node-0x6f76c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6f76c0">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">
+
+You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You seem to wake up again, with your face as cold as death, half in the grime of the tile floor. You begin to get up, but then the visceral stack of mistakes you&apos;re popping off now keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="21">YES</temporary>
+    <children>
+      <child nodeId="node-0xda494e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xda494e0">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">
+Dear lord.
+
+It&apos;s less sobering, and more alarming. You turn to start the bath, and then look back at the mirror. You&apos;re emaciated, haggard, and   you thrust your face into the running bathwater before you consciously identify what that was in the corner of your mouth. The esophageal burning went away a while ago (you&apos;re afriad the nerves there were dissolved by the acid or have just plainly given up), but it&apos;s getting more persistent. You look veritably awful.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You shave a solid half of your face properly, and you&apos;re just going to have to deal with the fact that the short hairs around your whorl are going to feel weird every time there&apos;s wind.
+
+
+Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+Your Quarters
+Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
+
+Your tattered backpack is here. You typically don&apos;t leave home without it.
+
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+  </item>
+  <item nodeId="node-0x4be530">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">
+
+You shudder awake. If you were a bit more careful, that is, if the room was spinning even a little bit slower, you might have dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You seem to wake up again, with your face as cold as death, half in the grime of the tile floor. You begin to get up, but then the visceral stack of mistakes you&apos;re popping off now keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="11">YES</temporary>
+    <children>
+      <child nodeId="node-0xda3b780" />
+    </children>
+  </item>
+  <item nodeId="node-0xda3b780">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">
+Dear lord.
+It&apos;s less sobering than it is alarming. You&apos;re emaciated, haggard, and you still have some of your stomach lining in the corner of your mouth. The esophageal burning went away a while ago (you&apos;re afriad the nerves there were dissolved by the acid or have just plainly given up), but it&apos;s getting more persistent. You look veritably awful.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face now that can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser.
+
+
+Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+Your Quarters
+Your modest abode is a standard-issue dwelling, designed for the unusually harsh conditions that result from being so high up on the Terace. It is made of multiple alloys of metal, and consists of a central, dome-shaped room, and a number of other, more traditionally rectangular rooms branching off from it.
+
+Your tattered backpack is here. You typically don&apos;t leave home without it.
+
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
   </item>
 </Skein>
