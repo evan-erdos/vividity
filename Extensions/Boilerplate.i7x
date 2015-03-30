@@ -6,9 +6,11 @@ Section 1 - Player
 
 The player forename is some text that varies.
 The player name is some text that varies.
+The player name is "Paul Erdos".
 
 The backpack is a player's holdall.
 The backpack is wearable.
+Understand "satchel/pack/bag/bac/back/backp/backpa/backpac" as backpack.
 The carrying capacity of the player is 8.
 
 To decide whether collecting names:
@@ -114,12 +116,6 @@ To leave space:
 	say paragraph break;
 	say paragraph break;
 	say paragraph break.
-[
-Table of Fancy Status
-left	central	right
-" [if in darkness]Darkness[otherwise][location][end if]"	"Vividity"	"[top rose]"
-" "	""	"[middle rose]"
-" "	""	"[bottom rose]"]
 
 To say rose (way - a direction):
 	let place be the room way from the location;
@@ -137,7 +133,7 @@ Table of Various Directions
 chosen way	abbrev	spacing
 up	"U   "	"    "
 northwest	"NW"	"  "
-north	" N "	"    "
+north	" N "	"   "
 northeast	"NE"	"  "
 east	" E"	"  "
 west	"W "	"  "
@@ -159,12 +155,12 @@ Table of Status Bar
 left    	central 		right
 " [player name]"       	"Vividity"	  	"[top rose]" 
 " [if in darkness]Darkness[otherwise][location][end if]"        	" "	  	"[middle rose]"
-" [time of day as 24h time]"	" "		"[bottom rose]"	
+" [time of day as 24h time]"	" "		"[bottom rose]"
 
 Rule for constructing the status line:
 	fill status bar with Table of Status Bar;
 	rule succeeds.
-	
+
 Section 2 - Other Classes
 
 A bed is a kind of supporter. A bed is always enterable. A bed is usually fixed in place. The description of a bed is usually "Unrumpled: the service keeps them neat and tidy." Understand "sheets" or "sheet" or "pillow" or "pillows" as the bed. Instead of looking under a bed, say "It is clean beneath as above."
@@ -188,8 +184,6 @@ Carry out retreating:
 	let way be the best route from the location to the former location, using doors;
 	if way is a direction, try going way;
 	otherwise say "You can't see an open way back."
-When play begins: now the former location is Seaside Cliff.
 Instead of retreating when the former location is the location: say "You haven't gone anywhere yet."
-
 
 Boilerplate ends here.

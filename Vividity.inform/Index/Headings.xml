@@ -3,15 +3,15 @@
 <plist version="1.0"><dict>
     <key>Application Version</key><string>6L38</string>
     <key>0</key><dict>
-        <key>Filename</key><string>/Users/benscott/Desktop/Vividity.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/benscott/Developer/vividity-master/Vividity.inform/Source/story.ni</string>
         <key>Line</key><integer>2</integer>
         <key>Title</key><string>"Vividity" by Ben Scott</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
     <key>1</key><dict>
-        <key>Filename</key><string>/Users/benscott/Desktop/Vividity.inform/Source/story.ni</string>
-        <key>Line</key><integer>17</integer>
+        <key>Filename</key><string>/Users/benscott/Developer/vividity-master/Vividity.inform/Source/story.ni</string>
+        <key>Line</key><integer>18</integer>
         <key>Title</key><string>Chapter 1 - Vivid Beginnings</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
@@ -1152,142 +1152,142 @@
     </dict>
     <key>164</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>34</integer>
+        <key>Line</key><integer>36</integer>
         <key>Title</key><string>Section 2 - Doors</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>165</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>64</integer>
+        <key>Line</key><integer>66</integer>
         <key>Title</key><string>Section 3 - Military Time</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>166</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>71</integer>
+        <key>Line</key><integer>73</integer>
         <key>Title</key><string>Section 4 - Other</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>167</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>86</integer>
+        <key>Line</key><integer>88</integer>
         <key>Title</key><string>Section 5 - Lights</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>168</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>90</integer>
+        <key>Line</key><integer>92</integer>
         <key>Title</key><string>Section 6 - Sounds</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>169</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>100</integer>
+        <key>Line</key><integer>102</integer>
         <key>Title</key><string>Chapter 3 - Class Definitions</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>170</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>102</integer>
+        <key>Line</key><integer>104</integer>
         <key>Title</key><string>Section 1 - Compass Rose</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>171</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>168</integer>
+        <key>Line</key><integer>164</integer>
         <key>Title</key><string>Section 2 - Other Classes</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>172</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/ben scott/boilerplate.i7x</string>
-        <key>Line</key><integer>180</integer>
+        <key>Line</key><integer>176</integer>
         <key>Title</key><string>Part 2 - Main</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>173</key><dict>
-        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/emily short/menus.i7x</string>
-        <key>Line</key><integer>1</integer>
-        <key>Title</key><string>Version 3 of Menus by Emily Short begins here</string>
-        <key>Level</key><integer>0</integer>
-        <key>Indentation</key><integer>0</integer>
-    </dict>
-    <key>174</key><dict>
-        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/emily short/menus.i7x</string>
-        <key>Line</key><integer>9</integer>
-        <key>Title</key><string>Section 1</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
-    <key>175</key><dict>
-        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/emily short/menus.i7x</string>
-        <key>Line</key><integer>208</integer>
-        <key>Title</key><string>Section 2 (for Glulx only)</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
-    <key>176</key><dict>
-        <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/room description control.i7x</string>
-        <key>Line</key><integer>1</integer>
-        <key>Title</key><string>Version 12 of Room Description Control by Emily Short begins here</string>
-        <key>Level</key><integer>0</integer>
-        <key>Indentation</key><integer>0</integer>
-    </dict>
-    <key>177</key><dict>
-        <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/room description control.i7x</string>
-        <key>Line</key><integer>6</integer>
-        <key>Title</key><string>Section 1 - Priority and Concealment Rules</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
-    <key>178</key><dict>
-        <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/room description control.i7x</string>
-        <key>Line</key><integer>130</integer>
-        <key>Title</key><string>Section 2 - Entering and Leaving</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
-    <key>179</key><dict>
-        <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/room description control.i7x</string>
-        <key>Line</key><integer>141</integer>
-        <key>Title</key><string>Section 3 - Debugging - Not for release</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
-    <key>180</key><dict>
-        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/emily short/complex listing.i7x</string>
-        <key>Line</key><integer>1</integer>
-        <key>Title</key><string>Version 9 of Complex Listing by Emily Short begins here</string>
-        <key>Level</key><integer>0</integer>
-        <key>Indentation</key><integer>0</integer>
-    </dict>
-    <key>181</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/plurality.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 8 of Plurality by Emily Short begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>182</key><dict>
+    <key>174</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/plurality.i7x</string>
         <key>Line</key><integer>7</integer>
         <key>Title</key><string>Section 1 - Verbs</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>183</key><dict>
+    <key>175</key><dict>
         <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/plurality.i7x</string>
         <key>Line</key><integer>74</integer>
         <key>Title</key><string>Section 2 - Pronouns</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>176</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/emily short/menus.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 3 of Menus by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>177</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/emily short/menus.i7x</string>
+        <key>Line</key><integer>9</integer>
+        <key>Title</key><string>Section 1</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>178</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/emily short/menus.i7x</string>
+        <key>Line</key><integer>208</integer>
+        <key>Title</key><string>Section 2 (for Glulx only)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>179</key><dict>
+        <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/room description control.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 12 of Room Description Control by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>180</key><dict>
+        <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/room description control.i7x</string>
+        <key>Line</key><integer>6</integer>
+        <key>Title</key><string>Section 1 - Priority and Concealment Rules</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>181</key><dict>
+        <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/room description control.i7x</string>
+        <key>Line</key><integer>130</integer>
+        <key>Title</key><string>Section 2 - Entering and Leaving</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>182</key><dict>
+        <key>Filename</key><string>/Users/benscott/Library/Containers/com.inform7.inform-compiler/Data/Library/Inform/Extensions/emily short/room description control.i7x</string>
+        <key>Line</key><integer>141</integer>
+        <key>Title</key><string>Section 3 - Debugging - Not for release</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>183</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/emily short/complex listing.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 9 of Complex Listing by Emily Short begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
     </dict>
 </dict></plist>
