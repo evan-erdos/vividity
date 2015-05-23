@@ -16,4 +16,5 @@ Todo:
 - Change the behaviour of look and examine to give a verbose description
 - Get statusbar / new block to display current room description
 - Implement inventory / dealing with multiple objects
+- Migrate to TADS, and use a git add submodule to link the compiler's source
 
