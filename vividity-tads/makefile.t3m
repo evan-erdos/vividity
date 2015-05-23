@@ -1,0 +1,15 @@
+-DLANGUAGE=en_us
+-DMESSAGESTYLE=neu
+-Fs src -Fy obj -Fo obj
+-o vividity.t3
+-lib system
+-lib adv3/adv3
+-source macros.h
+
+-source dijkstra
+-source hints
+-source intro
+-source main
+-source people
+-source player
+-source rooms
