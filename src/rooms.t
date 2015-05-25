@@ -1,0 +1,97 @@
+/* Ben Scott - 201505142021 - vividity - rooms */
+
+#include <adv3.h>
+#include <en_us.h>
+#include "macros.h"
+
+Room template 'roomName' "desc"? 'destName'? 'name'?;
+
+root : Room 'Your Quarters' 'your quarters'
+"It\'s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It\'s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off." {
+	west = outside_quarters;
+	/* addToScore(2, 'reasons'); */
+}
+
+outside_quarters : OutdoorRoom 'Outside Your Quarters' 'your quarters'
+"You\'re outside your Quarters, which used to be quite well-kept. You haven\'t applied the sealant in months, and the wind-facing surface has become pitted and slightly rusty. The rails girding your catwalks look better, but the bluing is getting worn. Behind your house is a small dropoff. About half of your dome hangs over the edge, and there\'s a nice, shady area inside the supporting rods, with herringbone metal steps leading down and around it." {
+	east = root;
+	southwest = seaside_cliffs;
+}
+
+seaside_cliffs : OutdoorRoom 'Seaside Cliffs' 'the cliffs'
+"The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the southwest, and to the west lies a cascade of lavender and mahogany flora, gushing from marble cliffsides. A serene breeze rolls over the terrace and eddies overtop the northwest trees, which are almost flush with the plateau." {
+	northwest = harston_road;
+	northeast = outside_quarters;
+	southeast = forest_overlook;
+	south = outside_dwelling;
+	southwest = cliffs_edge;
+}
+
+cliffs_edge : OutdoorRoom 'Cliff\'s Edge' 'the edge of the terrace'
+"There\'s enough of a wind coming up the edge of the cliff to lift a small animal. Looking down over the white and vaguely purple chalk, you see an isolated cove, locked on two sides by tall rocks. There is a sand dune in front of a ravine-like opening, which seems to run under the cliffs somewhere to the north." {
+	northwest = seaside_cliffs;
+}
+
+outside_dwelling : OutdoorRoom 'Outside Dwelling' 'the dwelling'
+"Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere." {
+	north = seaside_cliffs;
+	southwest = inside_dwelling;
+}
+
+inside_dwelling : Room 'Inside Dwelling' 'into the dwelling'
+"The interior of the main room is quite cozy. It is lit dimly, with globes of light forming a lurid image of the inside." {
+	northeast = outside_dwelling;
+}
+
+forest_overlook : OutdoorRoom 'Forest Overlook' 'the forest overlook'
+"At a gentle angle, the ocean-facing side of the plateau slides down to form a nice, shady spot beneath the trees. From here, the gargantuan arbors string all the way up above the raised rock of the terrace. There are tufts of branches almost within reach at the edge of the cliff." {
+	northeast = seaside_cliffs;
+
+}
+
+harston_road : OutdoorRoom 'The Road to Harston' 'the main road to Harston'
+"By some wonder of igneous intrusion, the northern edge of the Terrace has a set of 6 stair-like stone batholiths, all following the Terrace's ragged edge.With one exception, they even descend in order. An amalgam of small shops and transportation businesses have made themselves right at home on the terrace surface, and a small residential sector spreads down to the first step." {
+	southeast = seaside_cliffs;
+
+}
+
+town_harston : OutdoorRoom 'The Town of Harston' 'Harston'
+"This little boomtown has dug itself into the hard sandstone surface of the Terrace. Most of the shops are brimming with life, and the stone streets have been worn to the bare rock by thick rubber wheels and the foot traffic of a very busy people. The stores to the east are so crowded that you\'d likely be injured if you tried to buy something there, but the west end is quieter. There is a utilities shop to the west, a closed, nondescript shop to the southwest, and a cablecar service to the northwest." {
+	north = store_cablecar;
+	west = store_harold;
+	south = harston_road;
+}
+
+store_harold : Room 'Harold\'s Utility Store' 'Harold\'s store'
+"This is a store full of the sorts of things that can keep you alive, or get out of a tight spot. It\'s a bit cluttered." {
+	east = town_harston;
+}
+
+store_cablecar : Room 'The Cablecar Company' 'the cablecar building'
+"A large, round atrium opens to a chamber which sends and receives cars from a lower stop. The cars arrive in a wide, off-center slot in the dome, and the loading platform wraps around it." {
+	south = town_harston;
+	down = canyon_gallery;
+}
+
+canyon_gallery : OutdoorRoom 'The Canyon Gallery' 'the canyon gallery'
+"This is where it happened. It could\'nt\'ve been more than a month ago. There\'s a small crowd on the deck.
+
+	Very few people come to see the canyon now, but it is still beautiful. Most of the visitors are here because they don\'t know much about what happened. Some are here by sheer force of memory: the nostalgia they hold for this place allays the thought of what happened to that man, how... <b>brutal</b>... It is almost too much for you." {
+	up = store_cablecar;
+	/*down = locked_gate;
+	special_message = "A hallowed thing— - to drop a life -
+	Into the purple well— -
+	Too plummetless— - that it return— -
+	Eternity— until— -
+	F 307 (1862) 271";*/
+}
+
+under_gallery : OutdoorRoom 'Under the Canyon Gallery' 'under the platform'
+"This is a somewhat unsafe place to be: You\'re beneath the canyon\'s main viewing platform, amongst boulders which border you from a very steep drop into the gulley." {
+	up = canyon_gallery;
+}
+
+abandoned_park : OutdoorRoom 'The Abandoned Park' 'the park'
+"You stalk through the closed amusement park you remember so vividly from your childhood. It was a bustling, busy place, with all shapes and colors of people represented, walking around in what would else be socially unacceptable clothing. Those memories stand strong against the erosion of time, but seeing this place now, so broken as it is... it\'s quite unsettling." {
+
+}

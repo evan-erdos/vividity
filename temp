@@ -1,0 +1,108 @@
+/* extern nonfunctional */
+
+
+
+/* transient sessionInfo: object { showStartupOptions = true; } */
+
+//#ifdef TADS_INCLUDE_NET
+   // special code for the Web UI goes here
+//#else
+   // special code for the console UI goes here
+//#endif
+
+/*DefineTAction(Indecency);
+VerbRule(Indecency)
+	(('fuck'|'cunt'|'ass'|'penis'|'pussy'|'shit'|'vagina'|'tit'|'boob'|'felch'|'blumpkin'|'clit'|'cum'|'semen'|'butt')) singleDobj : Action {
+	verbPhrase = 'What is it with you?';
+}*/
+
+
+/* Columbus left 39 men, including Luis de Torres, and founded the settlement of La Navidad at Bord de Mer de Limonade, Haiti. 11/39 bodies found, Tainos killed them all. Other sources say there was insubordination within the colonists, which led to their deaths. */
+
+
+/*local tokList = Tokenizer.tokenize(properName);
+			for (local i=1,local cnt = tokList.length();i<=cnt;++i) {
+				if (i<cnt) cmdDict.addWord(self, getTokVal(tokList[i]), &adjective);
+				cmdDict.addWord(self, getTokVal(tokList[i]), &noun); */
+
+
+/*unemily: Unthing 'emily dickionson' 'emily' @alley4main {
+	isHim = true;
+	isProperName = true;
+}*/
+
+
+/*	room_msgs : ShuffledList {
+		valueList = ['Gentiana looks at you for a moment, and then looks quickly away.','Gentiana mulls about the room, just going through motions.','Gentiana stops for a moment, turns her head, and continues to shuffle the room around.','\"I\'d... I\'d like to be alone now, <<user.name>>.\" Gentiana looks around helplessly.'];
+	} */
+
+
+	/*showStatusLeft() {
+		local actor = gPlayerChar;
+		if (actor.name!=null) println(actor.name+'\n');
+		inherited();
+		//"<.statusroom>";
+		//if (actor!=null && actor.location!=null) actor.location.statusName(actor);
+		//"<./statusroom>";
+	}*/
+
+
+/* @TODO: write HELP cmd */
+DefineSystemAction(Help)
+	exeSystemAction() {
+		"Figure it out, man.";
+	}
+;
+
+VerbRule(Help) 'help' : HelpAction {
+	verbPhrase = 'show/showing help information';
+}
+
+
+DefineSystemAction(Copyright)
+    execSystemAction() { versionInfo.showCopyright(); }
+;
+
+VerbRule(Copyright) 'copyright' | 'license' | 'licence' : CopyrightAction {
+		verbPhrase = 'show/showing copyright information';
+}
+
+
+/* ifdef DEBUG serialNum = else endif */
+showVersionNew() {
+	"<i><<name>></i> Release <<version>> (<<serialNum>>)\n";
+}
+
+/* rend CREDITS cmd */
+showCreditNew() {
+	"<i>Vividity</i> was written and programmed by
+        Ben Scott, in the <font size=-1>TADS</font> 3
+        language.";
+}
+
+/* @TODO: Add MIT License */
+showCopyrightNew() {
+	"Do I really need this? Don\'t steal my stuff.";
+}
+
+/* @TODO: write ABOUT cmd */
+showAboutNew() {
+	"<img src='.system/CoverArt.jpg?id=<<rand('z{32}')>>'><br>";
+}
+
+
+
+
+		/*SettingsItem.restoreSettings(nil);
+		switch (runStartupOptions()) {
+			case 1:
+				initScreen(true);
+				showIntro();
+				/*new SenseDaemon*/
+				runGame(true);
+				break;
+			case 2:
+				runGame(nil);
+				break;
+			case 3:
+				break;*/

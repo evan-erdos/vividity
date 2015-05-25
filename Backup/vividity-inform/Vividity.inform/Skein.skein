@@ -1,0 +1,2836 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x436e30" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x436e30" />
+  <item nodeId="node-0x436e30">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+</result>
+    <commentary xml:space="preserve">
+
+
+Vividity
+An exercise in adventure puzzles and overwriting, by Ben Scott
+Release 1 / Serial number 150323 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Seaside Cliff
+The seaside terrace is far enough above the patchy trees and dells to afford a remarkable view of the ocean and sky. A ragged moon dusts some drying marshes to the west, and to the northwest lies a cascade of lavender and mahogany flora, gushing from marble cliffsides.
+
+You can see a leaflet here.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">NO</temporary>
+    <children>
+      <child nodeId="node-0x436e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x436e80">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">Rosy mist departs around a falling man. The edge of the canyon&apos;s shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, traced down through cracks by a man, presently crumpled into an exposed ravine. Onlookers squirm at the sight; some are much more moved by the spectacle. Before too long (and after the catwalk underwent a thorough scrubbing down by the real heroes in this situation), the crowd thinned. Authorities came and went; nobody could have seen who shot him. Many began to leave the platform, in disgust or boredom.
+</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x436ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x436ed0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">One girl didn&apos;t leave. She stood, transfixed by the coral and mauve stains on the rocks, oblivious to the sunset of rainbows falling on the canyon. Evening subdued the canyon&apos;s vibrance, but she still had them glowing within her: She had his colors in her blood, now, too. From that evening on, varicolored palettes of light would race through her mind, and she would keep their tones and shades for the rest of her life.
+
+&quot;Adaline, let&apos;s go.&quot;
+
+Getting impatient, Gentiana prodded at her friend. She&apos;d given Ada plenty of time to get out of her little trance, and it was getting late. &quot;Come on, Adaline, we have to go.&quot; Adaline absentmindedly stumbled away with her, occasionally glancing up, at the ragged moon, blankly watching it find it&apos;s path up through the sky.
+</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b15c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b15c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">
+
+What will your name be?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2590" />
+      <child nodeId="node-0x4b1880" />
+      <child nodeId="node-0x4b1a20" />
+      <child nodeId="node-0x4b1610" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1610">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="357">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b17c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b17c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="357">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1810" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1810">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="357">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b18e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b18e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="357">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1930" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1930">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="357">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1980" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1980">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+You shudder awake. If you were a bit more careful (rather, if the room was spinning even a little bit slower), you might&apos;ve dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You begin to get up, but the visceral stack of mistakes you&apos;re popping off keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="357">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b19d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b19d0">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face today that simply can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="356">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b1a20">
+    <command xml:space="preserve">ad</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+What will your name be? &gt;  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="220">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1b50" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1b50">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+What will your name be? &gt;  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="219">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b1880">
+    <command xml:space="preserve">Ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1d10" />
+      <child nodeId="node-0x4b1bc0" />
+      <child nodeId="node-0x4b1ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1ca0">
+    <command xml:space="preserve"> adf</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+What will your name be? </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="209">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b1bc0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+You return home. It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="341">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1c30" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1c30">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="336">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b1d10">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2130" />
+      <child nodeId="node-0x4b20c0" />
+      <child nodeId="node-0x4b1a90" />
+      <child nodeId="node-0x4b1d80" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1d80">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="260">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1df0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b1a90">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+You shudder awake. If you were a bit more careful (rather, if the room was spinning even a little bit slower), you might&apos;ve dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You begin to get up, but the visceral stack of mistakes you&apos;re popping off keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="248">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1ae0">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face today that simply can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="248">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1fe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1fe0">
+    <command xml:space="preserve">lok</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="248">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2050" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2050">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="247">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b20c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+You shudder awake. If you were a bit more careful (rather, if the room was spinning even a little bit slower), you might&apos;ve dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You begin to get up, but the visceral stack of mistakes you&apos;re popping off keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="300">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b2130">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2ca0" />
+      <child nodeId="node-0x4b2c30" />
+      <child nodeId="node-0x4b2a70" />
+      <child nodeId="node-0x4b1ed0" />
+      <child nodeId="node-0x4b21a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b21a0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="9">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b23d0" />
+      <child nodeId="node-0x4b2280" />
+      <child nodeId="node-0x4b2210" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2210">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="8">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b2280">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face today that simply can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b22f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b22f0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2360" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2360">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b23d0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face today that simply can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="230">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2440" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2440">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="230">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b1e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1e60">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="229">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b1ed0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+You shudder awake. If you were a bit more careful (rather, if the room was spinning even a little bit slower), you might&apos;ve dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You begin to get up, but the visceral stack of mistakes you&apos;re popping off keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="331">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2990" />
+      <child nodeId="node-0x4b2840" />
+      <child nodeId="node-0x4b1f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b1f40">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+You return home. It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b26f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b26f0">
+    <command xml:space="preserve">Az</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2760" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2760">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+You return home. It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b27d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b27d0">
+    <command xml:space="preserve">end</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="193">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b2840">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face today that simply can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="331">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b28b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b28b0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="331">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2920" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2920">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+You return home. It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="330">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b2990">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face today that simply can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="239">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2a00" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2a00">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Your Quarters
+You return home. It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="238">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b2a70">
+    <command xml:space="preserve">zl</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="367">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2ae0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="367">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2b50" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2b50">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="367">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2bc0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="366">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b2c30">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">
+*** Run-time problem P46: The memory stack is exhausted.
+
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+53 
+Block at 20 owner ID 9 size 1
+53 
+Block at 17 owner ID 9 size 1
+53 
+Block at 14 owner ID 9 size 1
+53 
+Block at 11 owner ID 9 size 1
+53 
+Block at 5 owner ID 20011 size 4
+17 0 1 56 
+Block at 2 owner ID 9 size 1
+53 
+Mstack backtrace: size 157 words
+Block at 155 owner ID 9 size 1
+53 
+Block at 152 owner ID 9 size 1
+53 
+Block at 149 owner ID 9 size 1
+53 
+Block at 146 owner ID 9 size 1
+53 
+Block at 143 owner ID 9 size 1
+53 
+Block at 140 owner ID 9 size 1
+53 
+Block at 137 owner ID 9 size 1
+53 
+Block at 134 owner ID 9 size 1
+53 
+Block at 131 owner ID 9 size 1
+53 
+Block at 128 owner ID 9 size 1
+53 
+Block at 125 owner ID 9 size 1
+53 
+Block at 122 owner ID 9 size 1
+53 
+Block at 119 owner ID 9 size 1
+53 
+Block at 116 owner ID 9 size 1
+53 
+Block at 113 owner ID 9 size 1
+53 
+Block at 110 owner ID 9 size 1
+53 
+Block at 107 owner ID 9 size 1
+53 
+Block at 104 owner ID 9 size 1
+53 
+Block at 101 owner ID 9 size 1
+53 
+Block at 98 owner ID 9 size 1
+53 
+Block at 95 owner ID 9 size 1
+53 
+Block at 92 owner ID 9 size 1
+53 
+Block at 89 owner ID 9 size 1
+53 
+Block at 86 owner ID 9 size 1
+53 
+Block at 83 owner ID 9 size 1
+53 
+Block at 80 owner ID 9 size 1
+53 
+Block at 77 owner ID 9 size 1
+53 
+Block at 74 owner ID 9 size 1
+53 
+Block at 71 owner ID 9 size 1
+53 
+Block at 68 owner ID 9 size 1
+53 
+Block at 65 owner ID 9 size 1
+53 
+Block at 62 owner ID 9 size 1
+53 
+Block at 59 owner ID 9 size 1
+53 
+Block at 56 owner ID 9 size 1
+53 
+Block at 53 owner ID 9 size 1
+53 
+Block at 50 owner ID 9 size 1
+53 
+Block at 47 owner ID 9 size 1
+53 
+Block at 44 owner ID 9 size 1
+53 
+Block at 41 owner ID 9 size 1
+53 
+Block at 38 owner ID 9 size 1
+53 
+Block at 35 owner ID 9 size 1
+53 
+Block at 32 owner ID 9 size 1
+53 
+Block at 29 owner ID 9 size 1
+53 
+Block at 26 owner ID 9 size 1
+53 
+Block at 23 owner ID 9 size 1
+</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="294">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b2ca0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="282">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2d10" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2d10">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="282">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2d80" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2d80">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+You shudder awake. If you were a bit more careful (rather, if the room was spinning even a little bit slower), you might&apos;ve dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You begin to get up, but the visceral stack of mistakes you&apos;re popping off keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="282">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2df0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face today that simply can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="282">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b24b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b24b0">
+    <command xml:space="preserve">looi</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="282">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2520" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2520">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="281">YES</temporary>
+  </item>
+  <item nodeId="node-0x4b2590">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+What will your name be?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="321">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2600" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2600">
+    <command xml:space="preserve">Ada</command>
+    <result xml:space="preserve">Are you male or female?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="321">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2670" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2670">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="321">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2e60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="321">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2ed0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Your Quarters
+It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+Time passes.
+
+You shudder awake. If you were a bit more careful (rather, if the room was spinning even a little bit slower), you might&apos;ve dodged the doorframe on your way to your porcelain friend. You won&apos;t remember why your temple hurts. You begin to get up, but the visceral stack of mistakes you&apos;re popping off keep you down. You stagger to your feet, swaying a bit as you try to lock eyes with yourself in the mirror. Your eyes haven&apos;t focused yet, and you consider that you might not want to see yourself like this.
+
+Do you look at yourself?  </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="321">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2f40">
+    <command xml:space="preserve">no</command>
+    <result xml:space="preserve">
+Good call. You&apos;re already on the verge of impending mental collapse; you don&apos;t need to feel worse. You avoid the mirror like it&apos;s a basilisk until you&apos;re overabundantly cleaner.
+You make an earnest attempt to clean up. There&apos;s a lot of water and scraping, and it doesn&apos;t go well. You put concealer literally everywhere. You&apos;re just going to have to deal with the fact that there are colors on your face today that simply can&apos;t be corrected. Long pants are a foregone conclusion. You consider the surfeit of ways that mascara could go horribly wrong, and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="321">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b2fb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b2fb0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="321">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b3020" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b3020">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="321">YES</temporary>
+    <children>
+      <child nodeId="node-0x4b3090" />
+    </children>
+  </item>
+  <item nodeId="node-0x4b3090">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Your Quarters
+You return home. It&apos;s a standard-issue dwelling, designed for the unusually harsh conditions of the Terrace. It is made of many alloys of metal, and is joisted by slender titanium trusses. It&apos;s defining feature is the central, dome-shaped foyer from which the more traditional, rectangular rooms branch off.Your tattered backpack is here. You typically don&apos;t leave home without it. You&apos;ve been using an old-style drafting table as a desk for as long as you&apos;ve needed a desk. It&apos;s edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor. Your door leads out, and you can see it&apos;s bright outside through it&apos;s circular window. Curved rails carry it a few degrees around the inside of the dome. 
+
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="320">YES</temporary>
+  </item>
+</Skein>

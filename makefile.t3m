@@ -1,0 +1,33 @@
+-DLANGUAGE=en_us
+-DMESSAGESTYLE=neu
+
+-nobanner
+-w2
+# web
+#-D TADS_INCLUDE_NET
+
+-Fs src -Fy obj -Fo obj
+-o vividity.t3
+-lib system
+
+# charset
+-lib adv3/adv3
+
+# web
+#-lib adv3/adv3web
+#-lib webui
+#-source tadsnet
+
+-source macros.h
+
+
+-source adaline
+-source dijkstra
+-source gentiana
+-source hints
+-source init
+-source main
+-source npcs
+-source rooms
+-source user
+-source util
