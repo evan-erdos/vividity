@@ -49,9 +49,8 @@ gentiana_teuta : Woman 'gentiana teuta' 'Gentiana' @inside_dwelling
 + gentiana_neutral : ActorState {
 	stateDesc = "She\'s been better since you found Ada. Still, she knows it\'s uncertain if Adaline will recover, and that keeps her worried yet. ";
 	specialDesc = "Gentiana is here, keeping half a smile on when she know\'s you\'re looking at her.";
-
 }
 
-+ AskTopic @ada
-	"Gentiana starts to bawl. You shouldn\'t\'ve done that.";
+//+ AskTopic @ada
+//	"Gentiana starts to bawl. You shouldn\'t\'ve done that.";
 	//"\"Hi, I'm <<user.name>>.\" There is a slight pause. \"I\'m Gentiana.\"<<gentiana_teuta.makeProper>>";

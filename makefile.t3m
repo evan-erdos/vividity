@@ -2,7 +2,7 @@
 -DMESSAGESTYLE=neu
 
 -nobanner
--w2
+#-w2 #wayyy too bitchy
 # web
 #-D TADS_INCLUDE_NET
 
