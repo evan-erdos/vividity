@@ -3,7 +3,7 @@ Name: Vividity
 Byline: by Ben Scott
 AuthorEmail: bescott@andrew.cmu.edu
 Version: 1
-ReleaseDate: 2015-05-24
+ReleaseDate: 2015-05-25
 FirstPublished: 2015
 Language: en-US
 LicenseType: Freeware

@@ -7,7 +7,7 @@
 user : BagOfHolding, Actor {
 	name = 'Paul Erdos';
 	gender = male;
-	vocabWords = 'me self <<name>>';
+	vocabWords = 'me/self/<<name>>';
 	location = root;
 	issueCommandsSynchronously = true;
 	bulk = 10;
@@ -17,10 +17,13 @@ user : BagOfHolding, Actor {
 	}
 
 	init() {
+#ifndef SUDO
 		" "; user.setName();
 		" "; user.setGender();
-		"\b\nName: <<user.name>>, <<user.printGender()>>";
+		//"\b\nName: <<user.name>>, <<user.printGender()>>";
 		clear;
+#endif
+		setKnowledge();
 	}
 
 	setName() {
@@ -55,4 +58,9 @@ user : BagOfHolding, Actor {
 	}
 
 	printGender() { return (user.gender==male)?'Male':'Female'; }
+
+	setKnowledge() {
+		gSetKnown(adaline_braun);
+		gSetKnown(gentiana_teuta);
+	}
 }

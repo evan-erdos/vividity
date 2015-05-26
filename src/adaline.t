@@ -4,17 +4,24 @@
 #include <en_us.h>
 #include "macros.h"
 
-adaline_braun : Woman 'adaline braun' 'Adaline' @under_gallery
-"Ada used to be so familliar to you. It not like she\'s unrecognizable, but she is a little colder." {
-		isProperName = true;
+adaline_braun : Woman 'Adaline' @under_gallery
+"Ada used to be so familliar to you. It not like she\'s unrecognizable, but she is a little colder. " {
+	isProperName = true;
 	knownProp = &adalineKnows;
-	seenProp = &adalineSees;
-	uselessToAttackMsg { 'Ada smiles. It is terrifying. \"...waiting was hard.\" she intones. She walks slowly towards you, and then stops, twitches again, and decides against whatever she was going to do, and resumes her usual demeanor.'; }
+	seenProp = &adalineHasSeen;
+	vocabWords = 'ada/adaline/adaline braun/braun';
+	uselessToAttackMsg {
+		cls();
+		"\b\n\n\nAda smiles. It is terrifying. \"...waiting was hard.\" she intones. She walks slowly towards you, and then stops. You swing at her, and she defends herself. You notice that she\'s still smiling, and you are horrified. She is going to kill you if she gets the chance.";
+		next;
+		"\b\nYou seemed to have the upper hand, but when she finally disarmed you, she went much further. She crushes your ribcage with a big stone, and then rolls it upwards, over your skull. You remained alive long enough to see the pleasure in her eyes from dismembering you.";
+		finishGameMsg('YOU HAVE DIED.',[finishOptionUndo]);
+	}
 }
 
 /* adaline - states */
 
-+ adaline_initial : ActorState {
++ adaline_init : ActorState {
 	specialDesc = "Adaline wanders around.";
 	stateDesc = "She\'s not well. Gentiana said that they saw the murder happen, and that some of the man\'s blood might have gotten on her. You both agree that Ada is either traumatized beyond belief or psychotic. She's moving her hands in strange patterns and is pacing about, stopping sometimes, just for a moment, and then continuing her strange trance. ";
 	noResponse = "She does her best, but she\'s simply not coherent.";

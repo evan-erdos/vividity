@@ -14,14 +14,14 @@ versionInfo : GameID {
 	IFID = 'B8Z33851-6253-77C3-04EE-278CEDED48AC';
 
 	showAbout() {
-		"\b<center><strong><u><<versionInfo.name.toUpper()>></u></strong>
+		"\b<center><b><u><<versionInfo.name.toUpper()>></u></b>
 		\b<<versionInfo.byline>>, <<versionInfo.authorEmail>>
-		\bVersion <<versionInfo.version>>, <<versionInfo.firstPublished>>
-		\b<<versionInfo.genre>></center>\b\n";
+		\nVersion <<versionInfo.version>>, <<versionInfo.firstPublished>>
+		\n<<versionInfo.genre>></center>\b";
 	} /* showAbout */
 } /* versionInfo */
 
-gameMain : GameMainDef {
+gameMain : GameMainDef { //impugn
 	initialPlayerChar = user;
 	maxScore = 128;
 
@@ -35,9 +35,9 @@ gameMain : GameMainDef {
 
 	startup() {
 		versionInfo.showAbout();
-		"\b<p>(Type <<aHref('about', 'ABOUT')>> for notes on
+		"<p>(Type <<aHref('about', 'ABOUT')>> for notes on
             how to play, or <<aHref('restore', 'RESTORE')>> to restore
-            a saved position.  To <<aHref('', 'begin the game')>>, just
+            a saved position. To <<aHref('', 'begin the game')>>, just
             press the Enter key.) </p>";
 		for (;;) {
 			local cmd;
@@ -62,8 +62,29 @@ gameMain : GameMainDef {
 					setScriptFile(rqArg, kw=='rq'?ScriptFileQuiet:0);
 					return 1; /* start the game */
 				}
-			}
+			} else return 1;
 		}
 	} /* startup */
 } /* gameMain */
+
+#ifdef SUDO
+
+DefineIAction(FiatLux)
+execAction {
+	if (gPlayerChar.brightness==0) {
+		"You\'re pretty bright. ";
+		gPlayerChar.brightness = 3;
+	} else {
+		"You feel dimmer. ";
+		gPlayerChar.brightness = 0;
+	}
+}
+;
+
+VerbRule(FiatLux) 'fiat' 'lux' : FiatLuxAction {
+	verbPhrase = 'make/making light'
+}
+;
+#endif
+
 
