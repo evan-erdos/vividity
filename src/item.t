@@ -4,11 +4,21 @@
 #include <en_us.h>
 #include "macros.h"
 
-class Herb : Food {
+class Plant : Thing {
+	vocabWords = 'flora/leaf/leaves/shrub/plant/plants/flowers';
+	identified = null;
+	idDesc = "<<(identified)?'You\'ve seen this kind of plant before.':'You cant be sure what kind of plant this is. '>>";
+}
+
+class Herb : Food, Plant {
 	//effect;
 	count = 1;
-	identified = null;
 	isPlural = true;
+}
+
+class Tree : Plant, Fixture {
+	vocabWords = 'arbor/arbors/conifer/conifers/timber/tree/trees';
+	desc = '\"I spy... something... green.\" \"Tree?\" \"ahh...\" \"Ok, my turn. I spy... eh, a vertical log-\" \"Tree.\" \"Yeah.\"';
 }
 
 backpack : BagOfHolding, StretchyContainer 'backpack' @root
@@ -20,7 +30,7 @@ backpack : BagOfHolding, StretchyContainer 'backpack' @root
 	//affinityFor(obj) { return obj.ofKind(Tablet) ? 200 : inherited(obj); }
 }
 
-keyring : Keyring 'keyring' 'keyring' @root
+keyring : Keyring 'keyring' @root
 "Your keyring is kindof barren. It\'s old enough that it\'s not as hard to separate it to put keys on, though. So, you\'ve got that going for you, which is nice." {
 
 }
@@ -34,19 +44,20 @@ flashlight : Flashlight 'flashlight' @root
 	weight = 2;
 }
 
-nightshade : Herb '(small) patch of weeds' 'nightshade' @cliffs_edge
-"The flowers are a brilliant shade of purple, their petals fade to black around the edges. The leaves are quite round. They seem to dart around, as if the wind is pushing them faster. " {
-	disambigName = 'sprig of nightshade';
+nightshade : Herb 'nightshade' @cliffs_edge
+"The flowers are a brilliant shade of purple, their petals fade to black around the edges. The leaves are quite round. They seem to dart around, as if the wind is pushing them faster than other plants. " {
 	identified = null;
-	initSpecialDesc = "The flowers are a brilliant shade of purple, their petals fade to black around the edges. The leaves are quite round. They seem to dart around, as if the wind is pushing them faster. ";
+	initSpecialDesc = "There's a small patch of flowers here, and they're a brilliant shade of purple. Their petals fade to black around the edges, and the leaves are quite round. They seem to dart around, as if the wind is pushing them faster than other plants around them. "
 	initDesc = "There are quite a few varieties of this plant that you've heard about, and while some are known to improve concentration and quell appetite, some varieties are more potent, and possibly dangerous. You don't know enough about botany to really tell if these flowers can kill you. Perhaps you can find someone who does.";
-	idDesc = "<<(identified)?'This is nightshade, a medicinal herb containing a very powerful psychostimulant. It is used in elixirs of speed.':'You don\'t know enough about botany to really tell if these flowers can kill you. Perhaps you can find someone who does.'>>."
+	idDesc = "<<(identified)?'This is nightshade, a medicinal herb containing a very powerful psychostimulant. It is used in elixirs of speed.':'You don\'t know enough about botany to really tell if these flowers can kill you. Perhaps you can find someone who does.'>>.";
+	vocabWords = 'nightshade/weed/weeds/leaves/plant/plants/sprig';
+	disambigName = 'sprig of nightshade';
 }
 
 leaflet : Thing '(small) leaflet' 'the leaflet' @seaside_cliffs
 "The leaflet is quite short, and has a tear along the top edge. It reads \"... the most amazing territory ever seen by mortals. No computer should be without one!\" At the end is what looks like a serial number, <b>69105</b>. Typical." {
-	initSpecialDesc = "A leaflet is held down by a rock, an edge fluttering in the breeze.";
-	initDesc = "There appears to be a note here, though you have no idea how it hasn\'t blown away yet.";
+	initSpecialDesc = "There's a leaflet here, held down by a rock. An edge flutters in the breeze.";
+	initDesc = "It's just a small piece of paper. You have no idea how it hasn't blown away yet.";
 }
 
 /*

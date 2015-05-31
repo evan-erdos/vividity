@@ -14,14 +14,28 @@ modify Actor {
 	}
 }
 
+class Mortal : Person {
+	maxHealth = 16;
+	health = 16;
+	isDead = null;
+	strength = 9;
+	swing = 9;
+	dodge = 5;
+	weapon_damage = 1;
+
+	Harm(n) { /* must be implemented by subclass */ }
+
+	attackDamage() { return self.strength+weapon_damage; } // weapon_damage -> ref item
+}
+
 class NPCWorn : Wearable {
 	wornBy = (location);
 	hideFromAll(action) { return true; }
 }
 
-Man : Person { isHim = true; }
-Woman : Person { isHer = true; }
-Group : Person { isPlural = true; isIt = true; }
+class Man : Mortal { isHim = true; }
+class Woman : Mortal { isHer = true; }
+class Group : Mortal { isPlural = true; isIt = true; }
 
 emily_dickinson : Woman 'Emily'
 "She sits quietly in a stiff wooden chair. She is deathly pale, and you know what color she's wearing." {

@@ -1,30 +1,7 @@
 
 
-Ben Scott
-5000 FORBES AVE SMC 1963
-PITTSBURGH, PENNSYLVANIA 15213-3815
-United States
 
 
-A plant is a kind of thing.
-A plant is either identified or unidentified. A plant is usually unidentified.
-Understand "leaf" or "shrub" or "flora" as a plant.
-Understand "plants" or "florae" or "floras" as the plural of plant.
-The description of a plant is usually "[the noun] is green. It has leaves. Move on with your life."
-
-A herb is a kind of plant that is edible.
-Understand "flower" or "weed" or "ingredient" as herb.
-Understand "herbs" or "flowers" or "weeds" or "ingredients" as the plural of herb.
-The description of a herb is usually "You recognize [the noun] as a potentially useful herb, but you aren't sure what it is. Perhaps you can find someone who does."
-
-A tree is a kind of plant.
-Understand "arbor" or "conifer" or "timber" as tree.
-Understand "trees" or "arbors" or "conifers" or "timbers" as the plural of tree.
-The description of a tree is usually "'I spy... something... green.' 'Tree?' 'ahh..' 'Ok, my turn. I spy... eh, a vertical log-' 'Tree.' 'Yeah.'";
-
-
-nightshade is a kind of herb. The printed name of nightshade is "[if the noun is identified]nightshade sprig[else]mystery flower".
-The description is usually "[if the noun is identified]This is nightshade, a medicinal herb containing a very powerful psychostimulant. It is used in elixirs of speed. [end if]The flowers are a brilliant shade of purple, their petals fade to black around the edges. The leaves are quite round. They seem to dart around, as if the wind is pushing them faster. [if the noun is unidentified]There are quite a few varieties of this plant that you've heard about, and while some are known to improve concentration and quell appetite, some varieties are more potent, and possibly dangerous. You don't know enough about botany to really tell if these flowers can kill you. Perhaps you can find someone who does.[end if]".
 Instead of eating the Nightshade:
 	say "[italic type]You eat one of the flowers. It's sweetly salty, and tingles your tongue. Before you're able to swallow all the petals, your heartrate doubles, and your mouth gets dry. You stumble around a bit.[roman type]";
 	The nightshade metabolizes in 3 turns from now.
@@ -38,10 +15,6 @@ At the time when the nightshade kills:
 	end the story saying "[italic type]Your heart rolls to a stop as you slip into death, your whole body humming.[roman type]".
 
 
-
-
-
-The drafting table is in Your Quarters. It is a supporter. "You've been using an old-style drafting table as a desk for as long as you've needed a desk. It's edged with a dented but sturdy aluminum frame. It has a hefty steel pivot, its arc stretching 135° or more. Four triangularly trussed legs extend to spherical rubber feet which match perfectly your dented floor."
 
 Some math papers are on your drafting table. "There are some scattered papers on your desk. You were doing a significant amount of math for an upcoming build of the rover. Coffee stains the edges, but your handwriting is still quite fine, neatly fitting into tiny dot-grid spaces."
 
@@ -87,11 +60,6 @@ The Cablecar Company is a room. "A large, round atrium opens to a chamber which 
 
 The Cablecar Door is a door and scenery. The Cablecar Door is northwest of The Town of Harston and outside from The Cablecar Company. "This small business's door is welcoming and unassuming."
 
-Abandoned Amusement Park is a room. "You stalk through the closed amusement park you remember so vividly from your childhood. It was a bustling, busy place, with all shapes and colors of people represented, walking around in what would else be socially unacceptable clothing. Those memories stand strong against the erosion of time, but seeing this place now, so broken as it is... it's quite unsettling.".
-
-The Gallery is down from the Cablecar Company. "holy shit! Learn you a good Haskell!".
-
-Jane Hornsby is a woman. "Jane is sitting here, looking at you sideways.'... marzipan... heh. Marzipanic at the Disco!'"
 
 Emily Dickinson is a woman.
 "A solemn thing - it was - I said -

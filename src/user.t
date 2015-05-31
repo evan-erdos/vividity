@@ -4,13 +4,18 @@
 #include <en_us.h>
 #include "macros.h"
 
-user : BagOfHolding, Actor {
+user : BagOfHolding, Mortal {
 	name = 'Paul Erdos';
+	firstname = 'Paul';
+	lastname = 'Erdos';
 	gender = male;
 	vocabWords = 'me/self/<<name>>';
 	location = root;
 	issueCommandsSynchronously = true;
 	bulk = 10;
+	isCriminal = null;
+	crimes = 0;
+	reputation = 50;
 	desc {
 		"You look like you need some rest. You\'re sore, and you have some serious bags under your eyes.";
 		holdingDesc; /* inventoryListener: actorInventoryListener */
@@ -30,15 +35,29 @@ user : BagOfHolding, Actor {
 		local cmd;
 		for (local i=0;true;i++) {
 			cmd = inputManager.getInputLine(null, {:"\b\nWho will you be?  &gt;" });
-			if (i>6) { "Ok, you're done here. Come back when you've gradutated from the 5th grade."; i/=0;
-			} else if (i>5) "You're really going for it, huh?";
-			else if (i>4) "You're testing my patience.";
+			if (i>7) { "Ok, you're done here. Come back when you've gradutated from the 5th grade."; i/=0;
+			} else if (i>6) "You're really going for it, huh?";
+			else if (i>5) "You're testing my patience.";
 			else if (cmd.length()<3) "You really should have a name.";
-			else if (rexSearch('%b(ada|adaline|adaline braun)%b',cmd.toLower())) "Be more original.";
+			else if (rexSearch('%b(ada|adaline|adaline braun|genti|gentiana)%b',cmd.toLower())) "Be more original.";
 			else if (cmd.length()>24) "What are you, some kind of 16th century Spanish noble? Be reasonable, here.";
 			else if (rexSearch('%d',cmd)) "A real name please.";
 			else if (rexSearch(util.obscenities,cmd.toLower())) "So, common decency, too. Call me particular.";
-			else { user.name = cmd; break; }
+			else { formatName(cmd); break; }
+		}
+	}
+
+	formatName(cmd) {
+		user.name = cmd;
+		if (rexSearch('%w %w',cmd)) {
+			local s = cmd.split(' ');
+			if (s.length()<2) {
+				user.firstname = util.capitalize(cmd);
+				user.lastname = util.capitalize(cmd);
+			} else {
+				user.firstname = util.capitalize(s[0]);
+				user.lastname = util.capitalize(s[1]);
+			}
 		}
 	}
 
@@ -63,4 +82,16 @@ user : BagOfHolding, Actor {
 		gSetKnown(adaline_braun);
 		gSetKnown(gentiana_teuta);
 	}
+
+	commitCrime(n) { /* n is severity of crime */
+		user.crimes+=n; // as it is, you can't ever repent
+		if (user.crimes>15) user.setCriminal(true);
+	}
+
+	setCriminal(b) {
+		user.isCriminal = true;
+		"\n<b>**You have commited a heinous crime. If anyone learns of your deeds, you will either be a prisoner or a fugitive for the rest of your life. Suicide has never seemed so warm. **</b>";
+	}
 }
+
+

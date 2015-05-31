@@ -11,7 +11,7 @@
  *   underlying graph; each subclass must override one method to provide
  *   the concrete graph implementation.
  */
-class BasePathFinder: object
+class BasePathFinder : object {
     /*
      *   Find the best path from 'fromNode' to 'toNode', which are nodes in
      *   the underlying graph.  We'll return a vector consisting of graph
@@ -19,7 +19,7 @@ class BasePathFinder: object
      *   that 'fromNode' and 'toNode' are included in the returned vector.
      *
      *   If the two nodes 'fromNode' and 'toNode' aren't connected in the
-     *   graph, we'll simply return nil.
+     *   graph, we'll simply return null.
      */
     findPath(fromNode, toNode) {
         local i;
@@ -50,7 +50,7 @@ class BasePathFinder: object
                  *   add the adjacent node only if it's not already in the
                  *   working list
                  */
-                if (workingList.indexWhich({x: x.graphNode == adj}) == nil)
+                if (workingList.indexWhich({x: x.graphNode == adj}) == null)
                     workingList.append(new PathFinderNode(adj));
             });
         }
@@ -59,8 +59,8 @@ class BasePathFinder: object
          *   if the destination isn't in the working list, then there's no
          *   hope of finding a path to it
          */
-        if (workingList.indexWhich({x: x.graphNode == toNode}) == nil)
-            return nil;
+        if (workingList.indexWhich({x: x.graphNode == toNode}) == null)
+            return null;
 
         /* start with an empty "done" list */
         doneList = new Vector(32);
@@ -68,7 +68,7 @@ class BasePathFinder: object
         /* we know the distance from the starting element to itself is zero */
         cur = workingList[1];
         cur.bestDist = 0;
-        cur.predNode = nil;
+        cur.predNode = null;
 
         /* keep going while we have unresolved nodes */
         while (workingList.length() != 0)
@@ -77,14 +77,14 @@ class BasePathFinder: object
             local minDist;
 
             /* find the working list element with the shortest distance */
-            minDist = nil;
-            minIdx = nil;
+            minDist = null;
+            minIdx = null;
             for (i = 1, len = workingList.length() ; i <= len ; ++i)
             {
                 /* if this is the best so far, remember it */
                 cur = workingList[i];
-                if (cur.bestDist != nil
-                    && (minDist == nil || cur.bestDist < minDist))
+                if (cur.bestDist != null
+                    && (minDist == null || cur.bestDist < minDist))
                 {
                     /* this is the best so far */
                     minDist = cur.bestDist;
@@ -113,7 +113,7 @@ class BasePathFinder: object
                  *   with it.
                  */
                 entry = workingList.valWhich({x: x.graphNode == adj});
-                if (entry == nil)
+                if (entry == null)
                     return;
 
                 /*
@@ -128,12 +128,12 @@ class BasePathFinder: object
                 /*
                  *   If this is better than the best estimate for the
                  *   adjacent room so far, assume we'll use this path.
-                 *   Note that if the best estimate so far is nil, it
+                 *   Note that if the best estimate so far is null, it
                  *   means we haven't found any path to the adjacent node
                  *   yet, so this new distance is definitely the best so
                  *   far.
                  */
-                if (entry.bestDist == nil
+                if (entry.bestDist == null
                     || newDist < entry.bestDist)
                 {
                     /* it's the best so far - remember it */
@@ -152,11 +152,11 @@ class BasePathFinder: object
          *   order, because it tells us the predecessor for each node.
          *   So, first find out how long the path is by traversing the
          *   predecessor list from the ending point to the starting point.
-         *   Note that the predecessor of the starting element is nil, so
-         *   we can simply keep going until we reach a nil predecessor.
+         *   Note that the predecessor of the starting element is null, so
+         *   we can simply keep going until we reach a null predecessor.
          */
         toEntry = doneList.valWhich({x: x.graphNode == toNode});
-        for (cur = toEntry, len = 0 ; cur != nil ;
+        for (cur = toEntry, len = 0 ; cur != null ;
              cur = cur.predNode, ++len) ;
 
         /* create the vector that represents the path */
@@ -170,7 +170,7 @@ class BasePathFinder: object
          *   want.  In the return vector, store the nodes from the
          *   underlying graph (rather than our internal tracking entries).
          */
-        for (cur = toEntry, i = len ; cur != nil ; cur = cur.predNode, --i)
+        for (cur = toEntry, i = len ; cur != null ; cur = cur.predNode, --i)
             ret[i] = cur.graphNode;
 
         /* that's it - return the path */
@@ -195,7 +195,7 @@ class BasePathFinder: object
      *   underlying graph.
      */
     forEachAdjacent(node, func) { /* subclasses must override */ }
-;
+}
 
 /*
  *   A node entry for the path finder - this encapsulates the node in the
@@ -204,28 +204,17 @@ class BasePathFinder: object
  *   an internal data structure that we use in the path finder to keep
  *   track of the underlying nodes and their status in the work queue.
  */
-class PathFinderNode: object
-    construct(node)
-    {
-        /* remember the underlying node */
-        graphNode = node;
-    }
+class PathFinderNode : object {
+    construct(node) { graphNode = node; } /* remember the underlying node */
 
-    /* the underlying node in the graph */
-    graphNode = nil
+    graphNode = null; /* the underlying node in the graph */
+    /* The best estimate of the shortest distance from the starting
+     * point.  We use null to represent infinity here. */
+    bestDist = null;  /* the best-path predecessor for this path element */
+    predNode = null;
+}
 
-    /*
-     *   The best estimate of the shortest distance from the starting
-     *   point.  We use nil to represent infinity here.
-     */
-    bestDist = nil
-
-    /* the best-path predecessor for this path element */
-    predNode = nil
-;
-
-/*
- *   Room path finder.  This is a concrete implementation of the path
+/*   Room path finder.  This is a concrete implementation of the path
  *   finder that finds a path from one Room to another in the game-world
  *   map.
  *
@@ -234,100 +223,75 @@ class PathFinderNode: object
  *   since it doesn't take into account what the actor knows about the game
  *   map.  This "omniscient" implementation is suitable for situations
  *   where the actor's knowledge isn't relevant and we just want the actual
- *   best path between the locations.
- */
-roomPathFinder: BasePathFinder
+ *   best path between the locations. */
+roomPathFinder : BasePathFinder {
     /* find the path for a given actor from one room to another */
-    findPath(actor, fromLoc, toLoc)
-    {
+    findPath(actor, fromLoc, toLoc) {
         /* remember the actor */
         actor_ = actor;
-
         /* run the normal algorithm */
         return inherited(fromLoc, toLoc);
     }
 
-    /*
-     *   iterate over the nodes adjacent in the underlying graph to the
-     *   given node
-     */
-    forEachAdjacent(loc, func)
-    {
-        /*
-         *   run through the directions, and add the apparent destination
-         *   for each one
-         */
-        foreach (local dir in Direction.allDirections)
-        {
+    /* iterate over the nodes adjacent in the underlying graph to the
+     * given node */
+    forEachAdjacent(loc, func) {
+        /* run through the directions, and add the apparent destination
+         * for each one */
+        foreach (local dir in Direction.allDirections) {
             local conn;
             local dest;
-
-            /*
-             *   if there's a connector, and it has an apparent
+            /* if there's a connector, and it has an apparent
              *   destination, then the apparent destination is the
-             *   adjacent node
-             */
-            if ((conn = loc.getTravelConnector(dir, actor_)) != nil
-                && (dest = getDestination(loc, dir, conn)) != nil
-                && includeRoom(dest))
-            {
-                /*
-                 *   This one seems to go somewhere - process the
-                 *   destination.  The standard room map has no concept of
-                 *   distance, so use equal weightings of 1 for all
-                 *   inter-room distances.
-                 */
+             *   adjacent node */
+            if ((conn = loc.getTravelConnector(dir, actor_)) != null
+            && (dest = getDestination(loc, dir, conn)) != null
+            && includeRoom(dest)) {
+                /* This one seems to go somewhere - process the
+                 * destination.  The standard room map has no concept of
+                 * distance, so use equal weightings of 1 for all
+                 * inter-room distances. */
                 (func)(dest, 1);
             }
         }
     }
 
-    /*
-     *   Get the location adjacent to the given location, for the purposes
+    /*   Get the location adjacent to the given location, for the purposes
      *   of finding the path.  By default, we return the actual
      *   destination, but subclasses might want to use other algorithms.
      *   For example, if a subclass's goal is to make an NPC find its own
      *   way from one location to another, then it should use the APPARENT
      *   destination, from the NPC's perspective, rather than the actual
      *   destination, since we'd want to construct the path based on the
-     *   NPC's knowledge of the map.
-     */
-    getDestination(loc, dir, conn)
-    {
+     *   NPC's knowledge of the map. */
+    getDestination(loc, dir, conn) {
         /* return the actual destination for the connector */
         return conn.getDestination(loc, actor_);
     }
 
-    /*
-     *   For easier customization, this method allows the map that we
+    /*   For easier customization, this method allows the map that we
      *   search to be filtered so that it only includes a particular
      *   subset of the map.  This returns true if a given room is to be
-     *   included in the search, nil if not.  By default, we include all
+     *   included in the search, null if not.  By default, we include all
      *   rooms.  Note that this is only called to begin with for rooms
      *   that have apparent connections to the starting room, so there's
      *   no need to filter out areas of the map that aren't connected at
      *   all to the starting search location.
      */
     includeRoom(loc) { return true; }
-
     /* the actor who's finding the path */
-    actor_ = nil
-;
+    actor_ = null
+}
 
-/*
- *   An NPC goal-seeking path finder.  This is a subclass of the basic room
- *   path finder that
- */
-npcRoomPathFinder: roomPathFinder
-    /*
-     *   Get the destination.  Unlike the base class implementation, we
+/* An NPC goal-seeking path finder.  This is a subclass of the basic room
+ * path finder that */
+npcRoomPathFinder : roomPathFinder {
+    /*   Get the destination.  Unlike the base class implementation, we
      *   take into the NPC's knowledge of the map by only using connector
-     *   destinations that are APPARENT to the NPC.
-     */
-    getDestination(loc, dir, conn)
-    {
+     *   destinations that are APPARENT to the NPC. */
+    getDestination(loc, dir, conn) {
         /* return the apparent destination of the connector */
         return conn.getApparentDestination(loc, actor_);
     }
-;
+}
 

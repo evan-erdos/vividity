@@ -1,6 +1,9 @@
 /* extern nonfunctional */
 
 
+#ls -R1 src | grep "\.t|h$"
+#for i in $(ls -R1 src | grep "\.t$"); do  echo src/$i; done
+#t3make -d -f makefile.t3m `for i in $(ls -R1 src | grep "\.t$"); do  echo src/$i; done`
 
 /* transient sessionInfo: object { showStartupOptions = true; } */
 

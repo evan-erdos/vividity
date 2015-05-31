@@ -8,10 +8,10 @@ versionInfo : GameID {
 	name = 'Vividity';
 	byline = 'by Ben Scott';
 	authorEmail = 'bescott@andrew.cmu.edu';
-	genre = 'An exercize in overwriting and adventure puzzles.';
-	version = '1';
+	genre = 'An exercise in overwriting and adventure puzzles.';
+	version = '0.1';
 	firstPublished = '2015';
-	IFID = 'B8Z33851-6253-77C3-04EE-278CEDED48AC';
+	IFID = 'TADS3851-6253-77C3-04EE-278CEDED48AC';
 
 	showAbout() {
 		"\b<center><b><u><<versionInfo.name.toUpper()>></u></b>
@@ -21,7 +21,7 @@ versionInfo : GameID {
 	} /* showAbout */
 } /* versionInfo */
 
-gameMain : GameMainDef { //impugn
+gameMain : GameMainDef { // impugn
 	initialPlayerChar = user;
 	maxScore = 128;
 

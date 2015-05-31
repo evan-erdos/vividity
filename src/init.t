@@ -6,11 +6,12 @@
 
 intro : InitObject {
 	prolog() {
+#ifndef TADS_INCLUDE_NET
 		bannerClear(1);
+#endif
 		"\b\nRosy mist departs around a falling man. The edge of the canyon's shadow dances along uneven crags, casting a sharp shadow between lines of scarlet and thulian, traced down through cracks by a man, presently crumpled into an exposed ravine. Onlookers squirm at the sight; some are much more <b>moved</b> by the spectacle. Before too long (and after the catwalk underwent a thorough scrubbing down by the <b>real</b> heroes in this situation), the crowd thinned. Authorities came and went; nobody could have seen who shot him. Many began to leave the platform, in disgust or boredom.\b\n";
-		next;
-		"\nOne girl didn't leave. She stood, transfixed by the coral and mauve stains on the rocks, oblivious to the sunset of rainbows falling on the canyon. Evening subdued the canyon's vibrance, but she still had them glowing within her: She had his colors in her blood, now, too. From that evening on, varicolored palettes of light would race through her mind, and she would keep their tones and shades for the rest of her life.\n";
 		clear;
+#ifndef TADS_INCLUDE_NET
 		local spacer = bannerCreate(null, BannerFirst, statuslineBanner.handle_, BannerTypeTextGrid, BannerAlignTop, 10, BannerSizePercent, BannerStyleBorder);
 		local title = bannerCreate(null, BannerLast, statuslineBanner.handle_, BannerTypeTextGrid, BannerAlignTop, 16, BannerSizePercent, BannerStyleBorder);
 		bannerSetTextColor(title, ColorBlue, ColorTransparent);
@@ -19,6 +20,12 @@ intro : InitObject {
 		clear;
 		bannerDelete(spacer);
 		bannerDelete(title);  // """ can be used like in lisp for this
+#else
+		versionInfo.showAbout();
+		clear;
+#endif
+		"\nOne girl didn't leave. She stood, transfixed by the coral and mauve stains on the rocks, oblivious to the sunset of rainbows falling on the canyon. Evening subdued the canyon's vibrance, but she still had them glowing within her: She had his colors in her blood, now, too. From that evening on, varicolored palettes of light would race through her mind, and she would keep their tones and shades for the rest of her life.\n";
+		next;
 		"\b\"Adaline, let\'s go.\"
 
 		\b\nGetting impatient, Gentiana prodded at her friend. She\'d given Ada <b>plenty</b> of time to get out of her little trance, and it was getting late. \"Come on, Adaline, we have to go.\" Adaline absentmindedly stumbled away with her, occasionally glancing up, at the ragged moon, blankly watching it find it\'s path up through the sky.";
@@ -33,7 +40,6 @@ intro : InitObject {
 		next;
 		"\b\nYou make an earnest attempt to clean up. There\'s a lot of water and scraping, and it doesn\'t go well. You consider the surfeit of ways that more involved measures to clean yourself could go (razors, nail clippers, et al), and without a second thought you walk out of the room to your dresser. Nicer clothes will at least allow you to masquerade as a well-put-together human being.";
 		clear;
-
 #endif
 	}
 
