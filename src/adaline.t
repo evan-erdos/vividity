@@ -51,12 +51,12 @@ adaline_braun : Woman 'Adaline' @under_gallery
 /* adaline - clothes and posessions */
 
 + NPCWorn 'coat/sweatshirt/hoodie/jacket' 'Adaline\'s Jacket'
-	"Adaline's Jacket fits snugly, and has sleeves that are plainly too long for her. It was once a bright color of amber, but now it's quite faded. It's become quite worn. " {
+"Adaline's Jacket fits snugly, and has sleeves that are plainly too long for her. It was once a bright color of amber, but now it's quite faded. It's become quite worn. " {
 	isListedInInventory = null;
 }
 
 + NPCWorn 'pants/shorts/' 'Adaline\'s Pants'
-	"Ada told you these were her favorite. They're quite simple, just white dress pants with a sharp crease along the front and back. They're an unusually heavy fabric, and the seams are thick, to match. She's walked in them enough to have unraveled the left leg's hemming. " {
+"Ada told you these were her favorite. They're quite simple, just white dress pants with a sharp crease along the front and back. They're an unusually heavy fabric, and the seams are thick, to match. She's walked in them enough to have unraveled the left leg's hemming. " {
 	isPlural = true;
 	isListedInInventory = null;
 }

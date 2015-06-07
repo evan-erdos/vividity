@@ -6,7 +6,7 @@
 #define clear inputManager.getKey(null,null); cls()
 #define next inputManager.getKey(null,null)
 
-#define SUDO
+/*#define SUDO*/
 
 Thing template 'name' @location? "desc";
 Person template 'name' @location? "desc";

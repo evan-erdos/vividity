@@ -5,8 +5,6 @@
 #include "macros.h"
 
 util : object {
-	obscenities = '%bfuck|shit|ass|penis|pussy|shit|damn|vagina|tit|boob|felch|cunt|blumpkin|clit|cum|semen%b';
-	offenses = 0;
 
 	capitalize(s) {
 		//if (s.length()<1) return s.toUpper();
@@ -34,6 +32,9 @@ util : object {
 	}
 
 	suppressOutput : OutputFilter { filterText(tgt,src) { return ' '; } }
+
+	obscenities = '%bfuck|shit|ass|penis|pussy|shit|damn|vagina|tit|boob|felch|cunt|blumpkin|clit|cum|semen%b';
+	offenses = 0;
 }
 
 modify statusLine {

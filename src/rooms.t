@@ -90,7 +90,8 @@ cliffs_edge : OutdoorRoom 'Cliff\'s Edge' 'the edge of the terrace'
 outside_dwelling : OutdoorRoom 'Outside Dwelling' 'the dwelling'
 "Halfway to the edge of the plateau is a small, dome-like dwelling, with some paths running between it and a small garden behind it, and another area downhill. It is noisily rusted around the rounded main roof, but the seaside wind has somewhat polished the east hemisphere." {
 	north = seaside_cliffs;
-	southwest = inside_dwelling;
+	in = inside_dwelling;
+	southwest asExit(in);
 
 	atmosphereList : ShuffledEventList {
 		['A <<one of>>serene<<or>>balmy<<at random>> breeze floats in from the east.',
@@ -105,7 +106,8 @@ outside_dwelling : OutdoorRoom 'Outside Dwelling' 'the dwelling'
 
 inside_dwelling : Room 'Inside Dwelling' 'into the dwelling'
 "The interior of the main room is quite cozy. It is lit dimly, with globes of light forming a lurid image of the inside." {
-	northeast = outside_dwelling;
+	out = outside_dwelling;
+	northeast asExit(out);
 }
 
 forest_overlook : OutdoorRoom 'Forest Overlook' 'the forest overlook'
